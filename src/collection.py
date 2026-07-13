@@ -43,7 +43,7 @@ def normalize_agency_name(name):
         if 'TRANSPORT INTELLIGENCE' in name:
             return 'NYPD Transit'
         return 'Police'
-    if 'POLICE DEPARTMENT' in name or 'POLICE DEPT' in name:
+    if 'POLICE DEPARTMENT' in name or 'POLICE DEPT' or 'DEP. POLICE' in name:
         return 'Police'
 
     # Parks
