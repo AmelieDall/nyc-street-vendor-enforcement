@@ -1,117 +1,148 @@
 """
-Functions for geocoding and to build and clean address strings for geocoding
+NYC GeoSupport Geocoder Function
 """
-import re
+import aiohttp
+import asyncio
 import pandas as pd
+import os
+from datetime import datetime
+from pathlib import Path
 
 
-def clean_house(val):
-    if pd.isna(val):
-        return ''
-    val = str(val).strip()
-    val = re.sub(r'\.0$', '', val)
-    return val
+# ── Config ─────────────────────────────────────────────────────────────────────
 
+GEOSEARCH_URL       = "https://geosearch.planninglabs.nyc/v2/search"
+CONCURRENCY         = 10
+CHECKPOINT_N        = 500
 
-def clean_street(val):
-    if pd.isna(val):
-        return ''
-    val = str(val).strip().upper()
-    val = re.sub(r'\bEAST\b', 'E', val)
-    val = re.sub(r'\bWEST\b', 'W', val)
-    val = re.sub(r'\bNORTH\b', 'N', val)
-    val = re.sub(r'\bSOUTH\b', 'S', val)
-    val = re.sub(r'\bSTREET\b', 'ST', val)
-    val = re.sub(r'\bAVENUE\b', 'AVE', val)
-    val = re.sub(r'\bBOULEVARD\b', 'BLVD', val)
-    val = re.sub(r'\bROAD\b', 'RD', val)
-    val = re.sub(r'\bPLACE\b', 'PL', val)
-    val = re.sub(r'\s+', ' ', val).strip()
-    return val
+REPO_ROOT = Path(__file__).resolve().parent.parent  # src/ → repo root
+DATA_DIR  = REPO_ROOT / "data" / "processed"
+DATA_DIR.mkdir(parents=True, exist_ok=True)
 
+VIOLATION_CHECKPOINT  = str(DATA_DIR / "violation_geocoded.csv")
+RESPONDENT_CHECKPOINT = str(DATA_DIR / "respondent_geocoded.csv")
 
-def clean_borough(val):
-    if pd.isna(val):
-        return ''
-    val = str(val).strip().upper()
-    mapping = {
-        'MANHATTAN': 'Manhattan',
-        'BROOKLYN': 'Brooklyn',
-        'BRONX': 'Bronx',
-        'QUEENS': 'Queens',
-        'STATEN ISLAND': 'Staten Island',
-        'MN': 'Manhattan',
-        'BK': 'Brooklyn',
-        'BX': 'Bronx',
-        'QN': 'Queens',
-        'QS': 'Queens',
-        'SI': 'Staten Island',
+# ── Parser ─────────────────────────────────────────────────────────────────────
+
+def parse_geosearch_response(data, original_address):
+    empty = {
+        "input_address": original_address,
+        "label":         None,
+        "housenumber":   None,
+        "street":        None,
+        "borough":       None,
+        "neighbourhood": None,
+        "locality":      None,
+        "postalcode":    None,
+        "region_a":      None,
+        "match_type":    None,
+        "accuracy":      None,
+        "confidence":    None,
+        "lat":           None,
+        "lon":           None,
+        "bbl":           None,
+        "bin":           None,
+        "source":        None,
+        "layer":         None,
     }
-    return mapping.get(val, val.title())
 
+    try:
+        features = data.get("features", [])
+        if not features:
+            return empty
 
-def clean_zip(val):
-    if pd.isna(val):
-        return ''
-    val = re.sub(r'\.0$', '', str(val).strip())
-    return val if re.match(r'^\d{5}$', val) else ''
+        top    = features[0]
+        props  = top.get("properties", {})
+        coords = top.get("geometry", {}).get("coordinates", [None, None])
+        pad    = props.get("addendum", {}).get("pad", {})
 
+        return {
+            "input_address": original_address,
+            "label":         props.get("label"),
+            "housenumber":   props.get("housenumber"),
+            "street":        props.get("street"),
+            "borough":       props.get("borough"),
+            "neighbourhood": props.get("neighbourhood"),
+            "locality":      props.get("locality"),
+            "postalcode":    props.get("postalcode"),
+            "region_a":      props.get("region_a"),
+            "match_type":    props.get("match_type"),
+            "accuracy":      props.get("accuracy"),
+            "confidence":    props.get("confidence"),
+            "lat":           coords[1],
+            "lon":           coords[0],
+            "bbl":           pad.get("bbl"),
+            "bin":           pad.get("bin"),
+            "source":        props.get("source"),
+            "layer":         props.get("layer"),
+        }
 
-def build_nyc_address(house_val, street_val, borough_val, city_val, state_val, zip_val):
-    house = clean_house(house_val)
-    street = clean_street(street_val)
+    except Exception:
+        return empty
 
-    if not street:
-        return None
+# ── Single request ─────────────────────────────────────────────────────────────
 
-    parts = [p for p in [house, street] if p]
-    address = ' '.join(parts)
+async def geocode_one(session, semaphore, address):
+    if not address:
+        return parse_geosearch_response({}, address)
 
-    # Prefer borough-derived city name, fall back to city field, then zip
-    borough = clean_borough(borough_val)
-    borough_to_city = {
-        'Manhattan': 'New York',
-        'Brooklyn': 'Brooklyn',
-        'Bronx': 'Bronx',
-        'Queens': 'Queens',
-        'Staten Island': 'Staten Island',
-    }
-    city = borough_to_city.get(borough, '')
-    if not city:
-        city = str(city_val).strip().title() if pd.notna(city_val) else ''
+    params = {"text": address, "size": 1}
 
-    state = str(state_val).strip().upper() if pd.notna(state_val) else 'NY'
-    zip_code = clean_zip(zip_val)
+    async with semaphore:
+        for attempt in range(3):
+            try:
+                async with session.get(
+                    GEOSEARCH_URL,
+                    params=params,
+                    timeout=aiohttp.ClientTimeout(total=10)
+                ) as resp:
+                    if resp.status == 200:
+                        data = await resp.json()
+                        return parse_geosearch_response(data, address)
+                    elif resp.status == 429:
+                        await asyncio.sleep(2 ** attempt)
+                    else:
+                        await asyncio.sleep(1)
+            except Exception:
+                await asyncio.sleep(2 ** attempt)
 
-    location_parts = [p for p in [city, state, zip_code] if p]
-    if location_parts:
-        address = f"{address}, {', '.join(location_parts)}"
+    return parse_geosearch_response({}, address)
 
-    return address
+# ── Checkpoint helpers ─────────────────────────────────────────────────────────
 
+def load_checkpoint(path):
+    if not os.path.exists(path):
+        return set(), []
+    df = pd.read_csv(path)
+    done = set(df["input_address"].dropna().tolist())
+    return done, df.to_dict("records")
 
-def build_violation_address(row):
-    return build_nyc_address(
-        row['violation_location_house'],
-        row['violation_location_street_name'],
-        row['violation_location_borough'],
-        row['violation_location_city'],
-        row['violation_location_state_name'],
-        row['violation_location_zip_code']
-    )
+def save_checkpoint(records, path):
+    pd.DataFrame(records).to_csv(path, index=False)
 
+# ── Main pipeline ──────────────────────────────────────────────────────────────
 
-def build_respondent_address(row):
-    return build_nyc_address(
-        row['respondent_address_house'],
-        row['respondent_address_street_name'],
-        row['respondent_address_borough'],
-        row['respondent_address_city'],
-        row['respondent_address_state_name'],
-        row['respondent_address_zip_code']
-    )
+async def geocode_addresses(addresses, checkpoint_path):
+    done_set, results = load_checkpoint(checkpoint_path)
+    remaining = [a for a in addresses if a not in done_set]
 
+    print(f"Total:       {len(addresses)}")
+    print(f"Already done:{len(done_set)}")
+    print(f"Remaining:   {len(remaining)}")
 
+    semaphore = asyncio.Semaphore(CONCURRENCY)
 
+    async with aiohttp.ClientSession() as session:
+        tasks = [geocode_one(session, semaphore, addr) for addr in remaining]
 
+        for i, coro in enumerate(asyncio.as_completed(tasks)):
+            result = await coro
+            results.append(result)
 
+            if (i + 1) % CHECKPOINT_N == 0:
+                save_checkpoint(results, checkpoint_path)
+                print(f"  [{datetime.now().strftime('%H:%M:%S')}] Checkpointed {i + 1}/{len(remaining)}")
+
+    save_checkpoint(results, checkpoint_path)
+    print(f"Done — {len(results)} total records saved to {checkpoint_path}")
+    return pd.DataFrame(results)
