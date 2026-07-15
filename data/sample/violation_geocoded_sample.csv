@@ -1,0 +1,101 @@
+input_address,label,housenumber,street,borough,neighbourhood,locality,postalcode,region_a,match_type,accuracy,confidence,lat,lon,bbl,bin,source,layer
+"371 2 MARKS PL, New York, NEW YORK, 10003","2 ST MARK'S PLACE, New York, NY, USA",2,ST MARK'S PLACE,Manhattan,East Village,New York,10003.0,NY,fallback,point,0.8,40.729248,-73.989775,1004630007.0,1006657.0,nycpad,venue
+"ALLERTON AVE & BRONX PARK, Bronx, NEW YORK",,,,,,,,,,,,,,,,,
+"NEC HUDSON BLVD E W 35, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"160-11 JAMAICA AVE, Queens, NEW YORK, 11432","160-11 JAMAICA AVENUE, Jamaica, NY, USA",160-11,JAMAICA AVENUE,Queens,Jamaica,New York,11432.0,NY,fallback,point,0.8,40.704155,-73.798905,4097570048.0,4208856.0,nycpad,venue
+"DYKER BEACH PK BALL FIELD, Brooklyn, NEW YORK","GARVEY PARK BALL FIELD, New York, NY, USA",,GARVEY PARK BALL FIELD,Manhattan,Central Harlem,New York,10027.0,NY,fallback,point,0.8,40.80449,-73.94367,1017190001.0,1000000.0,nycpad,venue
+"8501 BAY PKWY, Brooklyn, NEW YORK, 11214","8501 BAY PARKWAY, Brooklyn, NY, USA",8501,BAY PARKWAY,Brooklyn,Gravesend,New York,11214.0,NY,fallback,point,0.8,40.602111,-73.993125,3063480006.0,3165913.0,nycpad,venue
+"122 E 68 ST, New York, NEW YORK, 10065","122 EAST 68 STREET, New York, NY, USA",122,EAST 68 STREET,Manhattan,Upper East Side,New York,10065.0,NY,fallback,point,0.8,40.767727,-73.964719,1014020013.0,1042468.0,nycpad,venue
+"S E C 57 BROADWAY, New York, NEW YORK","57 B'WAY, New York, NY, USA",57,B'WAY,Manhattan,Financial District,New York,10006.0,NY,fallback,point,0.8,40.707113,-74.012842,1000210001.0,1000808.0,nycpad,venue
+"34 & 4 AVE, New York, NEW YORK","34-04 34 AVENUE, Astoria, NY, USA",34-04,34 AVENUE,Queens,Astoria,New York,11106.0,NY,fallback,point,0.8,40.758307,-73.924695,4006420028.0,4009628.0,nycpad,venue
+"136 ROOSEVELT AVE 61, Queens, NEW YORK, 11096","136 ROOSEVELT AVENUE, Staten Island, NY, USA",136,ROOSEVELT AVENUE,Staten Island,Emerson Hill,New York,10314.0,NY,fallback,point,0.8,40.60309,-74.132724,5008220014.0,5021203.0,nycpad,venue
+"6 AVE 48 ST, New York, NEW YORK","6 WEST 48 STREET, New York, NY, USA",6,WEST 48 STREET,Manhattan,Midtown West,New York,10036.0,NY,fallback,point,0.8,40.757378,-73.97889,1012630043.0,1034487.0,nycpad,venue
+"N W 6 OF W 55 & 6, New York, NEW YORK","55 6 AVENUE, New York, NY, USA",55,6 AVENUE,Manhattan,Tribeca,New York,10013.0,NY,fallback,point,0.8,40.721423,-74.00561,1002127503.0,1002736.0,nycpad,venue
+"W 25 BROADWAY, New York, NEW YORK","25 B'WAY, New York, NY, USA",25,B'WAY,Manhattan,Financial District,New York,10004.0,NY,fallback,point,0.8,40.705786,-74.013961,1000130027.0,1000045.0,nycpad,venue
+"5 AVE 58, New York, NEW YORK","58 5 AVENUE, New York, NY, USA",58,5 AVENUE,Manhattan,Greenwich Village,New York,10011.0,NY,fallback,point,0.8,40.734494,-73.995213,1005750048.0,1009582.0,nycpad,venue
+"141 E 59 ST, New York, NEW YORK, 10022","141 EAST 59 STREET, New York, NY, USA",141,EAST 59 STREET,Manhattan,Upper East Side,New York,10022.0,NY,fallback,point,0.8,40.762218,-73.967174,1013940023.0,1041904.0,nycpad,venue
+"219 E FORDHAM RD, Bronx, NEW YORK, 10458","219 EAST FORDHAM ROAD, Bronx, NY, USA",219,EAST FORDHAM ROAD,Bronx,Fordham,New York,10458.0,NY,fallback,point,0.8,40.862695,-73.895951,2031540045.0,2088404.0,nycpad,venue
+"N W C 33 ST 6 AVE, New York, NEW YORK","33 6 AVENUE, New York, NY, USA",33,6 AVENUE,Manhattan,Tribeca,New York,10013.0,NY,fallback,point,0.8,40.720841,-74.005624,1002120045.0,1002738.0,nycpad,venue
+"50 BROADWAY, New York, NEW YORK, 10004","50 B'WAY, New York, NY, USA",50,B'WAY,Manhattan,Financial District,New York,10004.0,NY,fallback,point,0.8,40.706237,-74.012424,1000220024.0,1000813.0,nycpad,venue
+"655 W 34 10 AVE SIDE, New York, NEW YORK","10 WEST SIDE HW, New York, NY, USA",10,WEST SIDE HW,Manhattan,Battery Park City,New York,10004.0,NY,fallback,point,0.8,40.705711,-74.017478,1000169001.0,1085789.0,nycpad,venue
+"TRINITY LIBERTY ST, New York, NEW YORK","HOLY TRINITY ST NICHOLAS, Staten Island, NY, USA",,HOLY TRINITY ST NICHOLAS,Staten Island,Bulls Head,New York,10314.0,NY,fallback,point,0.8,40.607745,-74.161352,5015600015.0,5107218.0,nycpad,venue
+"N & E & O 5 AVE & 58, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"BATTERY PARK STATE ST BATTER, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"71 BLEECKER ST, New York, NEW YORK, 10012","71 BLEECKER STREET, New York, NY, USA",71,BLEECKER STREET,Manhattan,NoHo,New York,10012.0,NY,fallback,point,0.8,40.726508,-73.995433,1005290001.0,1008418.0,nycpad,venue
+"3768 BRAODEAY, New York, NEW YORK","3768 BROADWAY, New York, NY, USA",3768,BROADWAY,Manhattan,Washington Heights,New York,10032.0,NY,exact,point,1.0,40.833582,-73.944836,1021150001.0,1062699.0,nycpad,venue
+"W 125 FREDERRICK D, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"R FULTON ST & CHURCH, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"CROVER CLEVALAND PK, Queens, NEW YORK",,,,,,,,,,,,,,,,,
+"20 S S E C O VESSEY ON CHUR, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"HIGHLAND PARK FRONT OF ZOLDE, Brooklyn, NEW YORK","HIGHLAND PARK, Brooklyn, NY, USA",,HIGHLAND PARK,Brooklyn,Forest Park,New York,11208.0,NY,fallback,point,0.8,40.68513,-73.8858,3038890001.0,3000000.0,nycpad,venue
+"144 FULTON ST, New York, NEW YORK, 10038","144 FULTON STREET, New York, NY, USA",144,FULTON STREET,Manhattan,Financial District,New York,10038.0,NY,fallback,point,0.8,40.710386,-74.008583,1000790025.0,1001223.0,nycpad,venue
+"1460 1 AVE, New York, NEW YORK, 10021","1460 1 AVENUE, New York, NY, USA",1460,1 AVENUE,Manhattan,Upper East Side,New York,10021.0,NY,fallback,point,0.8,40.770179,-73.953898,1014700047.0,1045943.0,nycpad,venue
+"179 E 79 ST, New York, NEW YORK, 10075","179 EAST 79 STREET, New York, NY, USA",179,EAST 79 STREET,Manhattan,Upper East Side,New York,10075.0,NY,fallback,point,0.8,40.774696,-73.957643,1015080031.0,1047475.0,nycpad,venue
+"1243 6 AVE, New York, NEW YORK, 10020","1271 6 AVENUE, New York, NY, USA",1271,6 AVENUE,Manhattan,Midtown West,New York,10020.0,NY,fallback,point,0.8,40.760633,-73.981122,1010030029.0,1022709.0,nycpad,venue
+"43 BROADWAY, New York, NY","43 B'WAY, New York, NY, USA",43,B'WAY,Manhattan,Financial District,New York,10006.0,NY,fallback,point,0.8,40.706553,-74.013269,1000200009.0,1000804.0,nycpad,venue
+"HIGHLINE PK-30 11 AVE, New York, NEW YORK","30 11 AVENUE, New York, NY, USA",30,11 AVENUE,Manhattan,Chelsea,New York,10011.0,NY,fallback,point,0.8,40.7434,-74.007928,1006870029.0,1012277.0,nycpad,venue
+"CENTRAL PARK W 110 ST DUKE ELL, New York, NEW YORK","CENTRAL PRK W 110 ST PLAYGROUND, New York, NY, USA",,CENTRAL PRK W 110 ST PLAYGROUND,Manhattan,Central Park,New York,10026.0,NY,fallback,point,0.8,40.78249,-73.96554,1011110001.0,1000000.0,nycpad,venue
+"E SHEA GATE, Queens, NEW YORK","USTA EAST GATE, Flushing Meadows, NY, USA",,USTA EAST GATE,Queens,Flushing Meadows,New York,11355.0,NY,fallback,point,0.8,40.74726,-73.84333,4020180001.0,4000000.0,nycpad,venue
+"MAFERN PARK, Queens, NEW YORK","ROBERT VENABLE PARK SKATE PARK, Brooklyn, NY, USA",,ROBERT VENABLE PARK SKATE PARK,Brooklyn,East New York,New York,11208.0,NY,fallback,point,0.8,40.67443,-73.86525,3042560001.0,3000000.0,nycpad,venue
+"103 ROOSEVELT AVE, Queens, NEW YORK","103 ROOSEVELT AVENUE, Staten Island, NY, USA",103,ROOSEVELT AVENUE,Staten Island,Emerson Hill,New York,10314.0,NY,fallback,point,0.8,40.604079,-74.132641,5007740007.0,5019781.0,nycpad,venue
+"YARKER STAD PK LOT 13C, Bronx, NEW YORK",,,,,,,,,,,,,,,,,
+"N & E & C & O 47 & 7 AVE, New York, NEW YORK","47 P O RIVERA WAY, Brooklyn, NY, USA",47,P O RIVERA WAY,Brooklyn,Prospect Heights,New York,11217.0,NY,fallback,point,0.8,40.681314,-73.974095,3011360008.0,3027812.0,nycpad,venue
+"WTC ENTRANCE CHURCH, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"1297 FULTON ST, Brooklyn, NEW YORK, 11216","1297 FULTON STREET, Brooklyn, NY, USA",1297,FULTON STREET,Brooklyn,Bedford-Stuyvesant,New York,11216.0,NY,fallback,point,0.8,40.680605,-73.949316,3018490055.0,3053258.0,nycpad,venue
+"MILLINUN PARK PARK RD, New York, NEW YORK","SHORE ROAD PARK, Brooklyn, NY, USA",,SHORE ROAD PARK,Brooklyn,East New York,New York,11209.0,NY,fallback,point,0.8,40.6716,-73.89332,3037400001.0,3000000.0,nycpad,venue
+"55 5 ON 5, New York, NEW YORK","BROOKLYN CB 5, Brooklyn, NY, USA",,BROOKLYN CB 5,Brooklyn,East New York,New York,11208.0,NY,fallback,point,0.8,40.674683,-73.896116,3036870001.0,3083515.0,nycpad,venue
+"FRONT OF 8215 11 AVE, Brooklyn, NEW YORK","8215 11 AVENUE, Brooklyn, NY, USA",8215,11 AVENUE,Brooklyn,Dyker Heights,New York,11228.0,NY,fallback,point,0.8,40.618534,-74.016016,3063010004.0,3163968.0,nycpad,venue
+"851 BARRETTO ST, Bronx, NEW YORK, 10474","851 BARRETTO STREET, Bronx, NY, USA",851,BARRETTO STREET,Bronx,Hunt's Point,New York,10474.0,NY,fallback,point,0.8,40.817858,-73.89083,2027390015.0,2098683.0,nycpad,venue
+"E 41 3, New York, NEW YORK","41 EAST 3 STREET, Brooklyn, NY, USA",41,EAST 3 STREET,Brooklyn,Windsor Terrace,New York,11218.0,NY,exact,point,1.0,40.651389,-73.978691,3052720058.0,3122394.0,nycpad,venue
+"149 COURTLAND, Bronx, NEW YORK","149 COURTLAND STREET, Staten Island, NY, USA",149,COURTLAND STREET,Staten Island,Port Richmond,New York,10302.0,NY,exact,point,1.0,40.62818,-74.134189,5010420154.0,5024525.0,nycpad,venue
+"RONA GOLF PG 111 ST 46 A, Queens, NEW YORK",,,,,,,,,,,,,,,,,
+"BATTERY PARK UPP 17 STATE ST, New York, NEW YORK","17 STATE STREET, New York, NY, USA",17,STATE STREET,Manhattan,Financial District,New York,10004.0,NY,fallback,point,0.8,40.702908,-74.01398,1000090014.0,1000020.0,nycpad,venue
+"NEY ISL BEACH W 12 RIEG, Bronx, NEW YORK",,,,,,,,,,,,,,,,,
+"SPRING ST & GREEN ST, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"2109 BROADWAY, New York, NY, 10023","2109 B'WAY, New York, NY, USA",2109,B'WAY,Manhattan,Upper West Side,New York,10023.0,NY,fallback,point,0.8,40.780179,-73.982247,1011657503.0,1030544.0,nycpad,venue
+"142-02 SANFORD AVE, Queens, NEW YORK, 11355","142-02 SANFORD AVENUE, Flushing, NY, USA",142-02,SANFORD AVENUE,Queens,Flushing,New York,11355.0,NY,fallback,point,0.8,40.757545,-73.824567,4051810016.0,4438161.0,nycpad,venue
+"CENTRAL PARK W 81 ST CENTRA, New York, NEW YORK","CENTRAL PRK W 110 ST PLAYGROUND, New York, NY, USA",,CENTRAL PRK W 110 ST PLAYGROUND,Manhattan,Central Park,New York,10026.0,NY,fallback,point,0.8,40.78249,-73.96554,1011110001.0,1000000.0,nycpad,venue
+"BRIGHTON 2 RIEGELMANN BOAR, Brooklyn, NEW YORK","43 BRIGHTON AVENUE, Staten Island, NY, USA",43,BRIGHTON AVENUE,Staten Island,New Brighton,New York,10301.0,NY,exact,point,1.0,40.637273,-74.08867,5000830004.0,5002030.0,nycpad,venue
+"N W BROADWAY 75 N O W 34, New York, NEW YORK","75 WEST B'WAY, New York, NY, USA",75,WEST B'WAY,Manhattan,Tribeca,New York,10007.0,NY,fallback,point,0.8,40.71461,-74.00968,1001330015.0,1000000.0,nycpad,venue
+"339 7 AVE, New York, NEW YORK, 10001","339 7 AVENUE, New York, NY, USA",339,7 AVENUE,Manhattan,Chelsea,New York,10001.0,NY,fallback,point,0.8,40.747415,-73.99283,1008040001.0,1015097.0,nycpad,venue
+"260 W 45 ST, New York, NEW YORK, 10036","260 WEST 45 STREET, New York, NY, USA",260,WEST 45 STREET,Manhattan,Midtown West,New York,10036.0,NY,fallback,point,0.8,40.758723,-73.9883,1010167501.0,1024711.0,nycpad,venue
+"RONA PLAZA & ROOSEVELT A, Queens, NEW YORK",,,,,,,,,,,,,,,,,
+"1650 SELWYN AVE, Bronx, NEW YORK, 10457","1650 SELWYN AVENUE, Bronx, NY, USA",1650,SELWYN AVENUE,Bronx,Claremont,New York,10457.0,NY,fallback,point,0.8,40.843612,-73.910109,2028240005.0,2094530.0,nycpad,venue
+"W 53 ST 6 AVE, New York, NEW YORK","53 6 AVENUE, New York, NY, USA",53,6 AVENUE,Manhattan,Tribeca,New York,10013.0,NY,fallback,point,0.8,40.721423,-74.00561,1002127503.0,1002736.0,nycpad,venue
+"W55 ST 6 AVE, New York, NEW YORK","6 ST & AVENUE B COMM GARDEN, New York, NY, USA",,6 ST & AVENUE B COMM GARDEN,Manhattan,East Village,New York,10009.0,NY,fallback,point,0.8,40.72431,-73.98204,1004010037.0,1000000.0,nycpad,venue
+"FMCP ZOO LOT E 111 ST, Queens, NEW YORK","111 EAST 111 STREET, New York, NY, USA",111,EAST 111 STREET,Manhattan,Spanish Harlem,New York,10029.0,NY,fallback,point,0.8,40.79631,-73.94503,1016390001.0,1000000.0,nycpad,venue
+"W S APP OF AMERICAS APP 20FT, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"PK BALLFIELDS, Staten Island, NEW YORK","CENTRAL PARK BALLFIELDS NORTH, New York, NY, USA",,CENTRAL PARK BALLFIELDS NORTH,Manhattan,Central Park,New York,10000.0,NY,exact,point,1.0,40.78249,-73.96554,1011110001.0,1000000.0,nycpad,venue
+"E WEUB WAKJ 62 CP, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"PROSPECT PARK W 14 ST, Brooklyn, NEW YORK","14 WEST 14 STREET, New York, NY, USA",14,WEST 14 STREET,Manhattan,Greenwich Village,New York,10011.0,NY,fallback,point,0.8,40.736163,-73.994744,1005777504.0,1088513.0,nycpad,venue
+"114 & BROADWAY, New York, NEW YORK","114 B'WAY, New York, NY, USA",114,B'WAY,Manhattan,Financial District,New York,10271.0,NY,fallback,point,0.8,40.708233,-74.010542,1000477501.0,1001026.0,nycpad,venue
+"PULITZER FOUNTAIN 5 AVE W 59, New York, NEW YORK","PULITZER FOUNTAIN, New York, NY, USA",,PULITZER FOUNTAIN,Manhattan,Midtown West,New York,10019.0,NY,exact,point,1.0,40.76413,-73.97355,1012740034.0,1000000.0,nycpad,venue
+"E 48 3 AVE, New York, NEW YORK","48 3 AVENUE, New York, NY, USA",48,3 AVENUE,Manhattan,East Village,New York,10003.0,NY,fallback,point,0.8,40.730958,-73.989288,1005560028.0,1008975.0,nycpad,venue
+"W 34 ST AND, New York, NEW YORK","34 WEST 34 STREET, New York, NY, USA",34,WEST 34 STREET,Manhattan,Midtown West,New York,10001.0,NY,fallback,point,0.8,40.749036,-73.986701,1008350061.0,1015863.0,nycpad,venue
+"111-07 NORTHERN BLVD, Queens, NEW YORK, 11368","111-07 NORTHERN BOULEVARD, East Elmhurst, NY, USA",111-07,NORTHERN BOULEVARD,Queens,East Elmhurst,New York,11368.0,NY,fallback,point,0.8,40.758167,-73.858584,4017050042.0,4042311.0,nycpad,venue
+"1293 B AVE, New York, NEW YORK","11 AVENUE B, New York, NY, USA",11,AVENUE B,Manhattan,East Village,New York,10009.0,NY,fallback,point,0.8,40.721751,-73.983387,1003840007.0,1004568.0,nycpad,venue
+"SO E CNR 56 6AVE, New York, NEW YORK","98-56 L I E SOUTH SR SOUTH SR, Rego Park, NY, USA",98-56,L I E SOUTH SR SOUTH SR,Queens,Rego Park,New York,11374.0,NY,fallback,point,0.8,40.735233,-73.858737,4020930041.0,4050487.0,nycpad,venue
+"E 167 GEMED AVE, Bronx, NEW YORK","167 MCKINLEY AVENUE, Brooklyn, NY, USA",167,MCKINLEY AVENUE,Brooklyn,East New York,New York,11208.0,NY,fallback,point,0.8,40.679924,-73.869767,3041690031.0,3093516.0,nycpad,venue
+"50 E CNR 57 15 AVE, New York, NEW YORK","117-57 15 AVENUE, College Point, NY, USA",117-57,15 AVENUE,Queens,College Point,New York,11356.0,NY,fallback,point,0.8,40.784412,-73.849715,4040690006.0,4461917.0,nycpad,venue
+"MERCER CANAL ST, New York, NEW YORK","9 MERCER STREET, New York, NY, USA",9,MERCER STREET,Manhattan,SoHo,New York,10013.0,NY,fallback,point,0.8,40.720569,-74.002325,1002307501.0,1003002.0,nycpad,venue
+"1345 6 AVE, New York, NEW YORK, 10105","1345 6 AVENUE, New York, NY, USA",1345,6 AVENUE,Manhattan,Midtown West,New York,10105.0,NY,fallback,point,0.8,40.763008,-73.979055,1010070029.0,1083719.0,nycpad,venue
+"BACK HNTOH ST 1 HOOK PARK, Brooklyn, NEW YORK",,,,,,,,,,,,,,,,,
+"N W C W 49 5 AVE, New York, NEW YORK","49 5 AVENUE, New York, NY, USA",49,5 AVENUE,Manhattan,Greenwich Village,New York,10003.0,NY,fallback,point,0.8,40.734411,-73.994365,1005690005.0,1009275.0,nycpad,venue
+"W 48 ST BROADWAY, NY","48 B'WAY, New York, NY, USA",48,B'WAY,Manhattan,Financial District,New York,10004.0,NY,fallback,point,0.8,40.706237,-74.012424,1000220024.0,1000813.0,nycpad,venue
+"W S B WAY APP 15FT N O W 33, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"2 E 46 ST, New York, NEW YORK, 10017","2 EAST 46 STREET, New York, NY, USA",2,EAST 46 STREET,Manhattan,Midtown East,New York,10017.0,NY,fallback,point,0.8,40.755697,-73.978801,1012810069.0,1035401.0,nycpad,venue
+"47-6 AVE, New York, NEW YORK","47 6 AVENUE, New York, NY, USA",47,6 AVENUE,Manhattan,Tribeca,New York,10013.0,NY,fallback,point,0.8,40.721423,-74.00561,1002127503.0,1002736.0,nycpad,venue
+"220 E 170 ST, Bronx, NEW YORK, 10456","220 EAST 170 STREET, Bronx, NY, USA",220,EAST 170 STREET,Bronx,Claremont,New York,10456.0,NY,fallback,point,0.8,40.838012,-73.912674,2028300035.0,2007969.0,nycpad,venue
+"2 E 50 ST, New York, NEW YORK, 10022","2 EAST 50 STREET, New York, NY, USA",2,EAST 50 STREET,Manhattan,Midtown East,New York,10022.0,NY,fallback,point,0.8,40.758026,-73.976946,1012857501.0,1081145.0,nycpad,venue
+"SWC W 33 ST & HUDSO, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"S E C W 44 ST 7 AVE, New York, NEW YORK","44 7 AVENUE, New York, NY, USA",44,7 AVENUE,Manhattan,West Village,New York,10011.0,NY,fallback,point,0.8,40.738166,-74.000391,1006180040.0,1011113.0,nycpad,venue
+"180, Bronx, NEW YORK","1129 EAST 180 STREET, Bronx, NY, USA",1129,EAST 180 STREET,Bronx,Bronx Park,New York,10460.0,NY,exact,point,1.0,40.842,-73.874903,2043330001.0,2101003.0,nycpad,venue
+"TREMONT PARK TREMONT PL, Bronx, NEW YORK","TREMONT PARK, Bronx, NY, USA",,TREMONT PARK,Bronx,Tremont,New York,10457.0,NY,exact,point,1.0,40.84527,-73.89524,2029430001.0,2000000.0,nycpad,venue
+"227 W 42 ST, New York, NEW YORK, 10036","227 WEST 42 STREET, New York, NY, USA",227,WEST 42 STREET,Manhattan,Midtown West,New York,10036.0,NY,fallback,point,0.8,40.756838,-73.988081,1010140017.0,1024683.0,nycpad,venue
+"2326 AMSTERDAM AVE, New York, NEW YORK, 10033","2326 AMSTERDAM AVENUE, New York, NY, USA",2326,AMSTERDAM AVENUE,Manhattan,Washington Heights,New York,10033.0,NY,fallback,point,0.8,40.844754,-73.93369,1021320058.0,1063194.0,nycpad,venue
+"W 34 AVE BROADWAY, New York, NEW YORK","34 EAST B'WAY, New York, NY, USA",34,EAST B'WAY,Manhattan,Chinatown,New York,10002.0,NY,fallback,point,0.8,40.713726,-73.9964,1002810015.0,1003491.0,nycpad,venue
+"S C O W 50 7 AVE, New York, NEW YORK","50 7 AVENUE, New York, NY, USA",50,7 AVENUE,Manhattan,West Village,New York,10011.0,NY,fallback,point,0.8,40.738374,-74.00022,1006180033.0,1011112.0,nycpad,venue
+"7W 5D ST & 6 AVE, New York, NEW YORK",,,,,,,,,,,,,,,,,
+"172 TODT HILL RD, Staten Is, NEW YORK, 10314","172 TODT HILL ROAD, Staten Island, NY, USA",172,TODT HILL ROAD,Staten Island,Emerson Hill,New York,10314.0,NY,fallback,point,0.8,40.608695,-74.117488,5007050362.0,5017866.0,nycpad,venue
+"S S W 40 ST APP 15 FT, New York, NEW YORK","15 HINSDALE STREET, Brooklyn, NY, USA",15,HINSDALE STREET,Brooklyn,East New York,New York,11207.0,NY,fallback,point,0.8,40.674978,-73.900992,3036820033.0,3083450.0,nycpad,venue
+"I O W 40 ST 7 AVE, New York, NEW YORK","40 7 AVENUE, New York, NY, USA",40,7 AVENUE,Manhattan,West Village,New York,10011.0,NY,fallback,point,0.8,40.737728,-74.000912,1006170055.0,1011094.0,nycpad,venue
