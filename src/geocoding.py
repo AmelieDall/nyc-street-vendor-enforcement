@@ -16,7 +16,7 @@ CONCURRENCY         = 10
 CHECKPOINT_N        = 500
 
 REPO_ROOT = Path(__file__).resolve().parent.parent  # src/ → repo root
-DATA_DIR  = REPO_ROOT / "data" / "processed"
+DATA_DIR  = REPO_ROOT / "data" / "raw"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 VIOLATION_CHECKPOINT  = str(DATA_DIR / "violation_geocoded.csv")
