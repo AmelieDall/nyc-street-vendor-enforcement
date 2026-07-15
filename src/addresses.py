@@ -17,18 +17,7 @@ def clean_house(val):
 def clean_street(val):
     if pd.isna(val):
         return ''
-    val = str(val).strip().upper()
-    val = re.sub(r'\bEAST\b', 'E', val)
-    val = re.sub(r'\bWEST\b', 'W', val)
-    val = re.sub(r'\bNORTH\b', 'N', val)
-    val = re.sub(r'\bSOUTH\b', 'S', val)
-    val = re.sub(r'\bSTREET\b', 'ST', val)
-    val = re.sub(r'\bAVENUE\b', 'AVE', val)
-    val = re.sub(r'\bBOULEVARD\b', 'BLVD', val)
-    val = re.sub(r'\bROAD\b', 'RD', val)
-    val = re.sub(r'\bPLACE\b', 'PL', val)
-    val = re.sub(r'\s+', ' ', val).strip()
-    return val
+    return str(val).strip().upper()
 
 
 def clean_borough(val):
@@ -58,18 +47,20 @@ def clean_zip(val):
     return val if re.match(r'^\d{5}$', val) else ''
 
 
-def build_nyc_address(house_val, street_val, borough_val, city_val, state_val, zip_val):
-    house = clean_house(house_val)
-    street = clean_street(street_val)
+def build_nyc_address(house_val=None, street_val=None, borough_val=None,
+                       city_val=None, state_val=None, zip_val=None):
+    house = clean_house(house_val) if house_val is not None else ''
+    street = clean_street(street_val) if street_val is not None else ''
+    borough = clean_borough(borough_val)
+    zip_code = clean_zip(zip_val)
 
-    if not street:
+    # Require at least a street name, or a borough+zip combo
+    if not street and not (borough and zip_code):
         return None
 
-    parts = [p for p in [house, street] if p]
-    address = ' '.join(parts)
+    # House + street form ONE segment (space-joined internally)
+    street_line = ' '.join(p for p in [house, street] if p)
 
-    # Prefer borough-derived city name, fall back to city field, then zip
-    borough = clean_borough(borough_val)
     borough_to_city = {
         'Manhattan': 'New York',
         'Brooklyn': 'Brooklyn',
@@ -82,13 +73,14 @@ def build_nyc_address(house_val, street_val, borough_val, city_val, state_val, z
         city = str(city_val).strip().title() if pd.notna(city_val) else ''
 
     state = str(state_val).strip().upper() if pd.notna(state_val) else 'NY'
-    zip_code = clean_zip(zip_val)
 
-    location_parts = [p for p in [city, state, zip_code] if p]
-    if location_parts:
-        address = f"{address}, {', '.join(location_parts)}"
+    # Every remaining piece is its own comma-separated segment
+    segments = [seg for seg in [street_line, city, state, zip_code] if seg]
 
-    return address
+    if not segments:
+        return None
+
+    return ', '.join(segments)
 
 
 def build_violation_address(row):
@@ -104,12 +96,9 @@ def build_violation_address(row):
 
 def build_respondent_address(row):
     return build_nyc_address(
-        row['respondent_address_house'],
-        row['respondent_address_street_name'],
-        row['respondent_address_borough'],
-        row['respondent_address_city'],
-        row['respondent_address_state_name'],
-        row['respondent_address_zip_code']
+        house_val=row.get('respondent_address_house'),
+        borough_val=row.get('respondent_address_borough'),
+        zip_val=row.get('respondent_address_zip_code'),
     )
 
 
@@ -184,7 +173,7 @@ DOUBLED_SUFFIX = re.compile(
 BETWEEN_TRUNC = re.compile(r'\s+BETW\s+.*$', re.IGNORECASE)
 
 # No house number
-NO_HOUSENUMBER = re.compile(r'^\d+\s')
+NO_HOUSENUMBER = re.compile(r'^\d+(-\d+)?\s')
 
 # Other
 APPROX_DESCRIPTOR = re.compile(
@@ -250,8 +239,8 @@ def clean_address(val):
     # Remove unit suffixes
     val = UNIT_SUFFIX.sub('', val).strip()
 
-    # Remove stray punctuation except & and -
-    val = re.sub(r"[',.]", '', val)
+    # Remove stray punctuation except & , and -
+    val = re.sub(r"['.]", '', val)
 
     # Collapse whitespace
     val = re.sub(r'\s+', ' ', val).strip()
