@@ -1,4 +1,5 @@
 pandas
+geopandas
 requests
 aiohttp
 numpy
