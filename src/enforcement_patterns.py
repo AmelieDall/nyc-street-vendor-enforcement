@@ -4,6 +4,7 @@ Functions to better understand enforcement patterns
 
 from scipy.stats import gaussian_kde
 import numpy as np
+import matplotlib.pyplot as plt
 
 def plot_kde_map(points_gdf, boundary_gdf, title, ax=None, cmap='hot_r',
                  bandwidth=None, grid_size=500, point_overlay=False,
@@ -12,8 +13,12 @@ def plot_kde_map(points_gdf, boundary_gdf, title, ax=None, cmap='hot_r',
     if points_gdf.crs != boundary_gdf.crs:
         points_gdf = points_gdf.to_crs(boundary_gdf.crs)
 
-    coords = np.array([(p.x, p.y) for p in points_gdf.geometry if p is not None])
-    if len(coords) == 0:
+    valid_mask = points_gdf.geometry.notna() & points_gdf.geometry.is_valid
+    coords = np.array([[geom.x, geom.y] for geom in points_gdf.geometry[valid_mask]])
+    finite_mask = np.isfinite(coords).all(axis=1)
+    coords = coords[finite_mask]
+
+    if coords.shape[0] == 0:
         raise ValueError('No valid points to plot')
 
     x, y = coords[:, 0], coords[:, 1]
