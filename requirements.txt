@@ -7,3 +7,4 @@ matplotlib
 libpysal
 splot
 esda
+contextily
