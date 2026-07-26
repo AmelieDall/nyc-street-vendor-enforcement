@@ -62,3 +62,8 @@ All spatial layers are projected to **EPSG:2263** (NAD83 / New York Long Island,
 - `district_scores.parquet`: pro-vendor legislative scoring by district, derived from Legistar floor votes.
 
 Processed files are built from raw data via `notebooks/02` through `notebooks/05` — see each notebook's header for the specific transformation steps.
+
+
+## PLUTO
+
+Get from https://www.nyc.gov/content/planning/pages/resources/datasets/mappluto-pluto-change

@@ -4,3 +4,6 @@ requests
 aiohttp
 numpy
 matplotlib
+libpysal
+splot
+esda
