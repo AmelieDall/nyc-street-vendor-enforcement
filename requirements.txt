@@ -8,3 +8,4 @@ libpysal
 splot
 esda
 contextily
+python-dotenv
