@@ -1,0 +1,661 @@
+,file_number,direction,action,action_date,person_id,person_name,OfficeRecordFullName,District,vote_value,voted_yes,voted_no,aligned
+0,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7801,Christopher Marte,Christopher Marte,1,Affirmative,True,False,True
+1,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7740,Carlina Rivera ,Carlina Rivera ,2,Affirmative,True,False,True
+2,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7802,Erik D. Bottcher,Erik D. Bottcher,3,Affirmative,True,False,True
+3,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,True
+4,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7803,Julie Menin,Julie Menin,5,Affirmative,True,False,True
+5,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,5259,Gale A. Brewer,Gale A. Brewer,6,Affirmative,True,False,True
+6,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7804,Shaun Abreu,Shaun Abreu,7,Affirmative,True,False,True
+7,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,True
+8,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7866,Yusef Salaam,Yusef Salaam,9,Affirmative,True,False,True
+9,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7806,Carmen N. De La Rosa,Carmen N. De La Rosa,10,Affirmative,True,False,True
+10,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7799,Eric Dinowitz,Eric Dinowitz,11,Affirmative,True,False,True
+11,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7794,Kevin C. Riley,Kevin C. Riley,12,Affirmative,True,False,True
+12,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7865,Kristy Marmorato,Kristy Marmorato,13,Negative,False,True,False
+13,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7808,Pierina Ana Sanchez,Pierina Ana Sanchez,14,Affirmative,True,False,True
+14,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7798,Oswald J. Feliz,Oswald J. Feliz,15,Affirmative,True,False,True
+15,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7809,Althea V.  Stevens,Althea V.  Stevens,16,Affirmative,True,False,True
+16,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,True
+17,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7810,Amanda C. Farías,Amanda C. Farías,18,Affirmative,True,False,True
+18,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7811,Vickie Paladino,Vickie Paladino,19,Negative,False,True,False
+19,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7812,Sandra Ung,Sandra Ung,20,Abstain,False,False,False
+20,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Abstain,False,False,False
+21,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7813,Tiffany L. Cabán,Tiffany L. Cabán,22,Affirmative,True,False,True
+22,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7814,Linda Lee,Linda Lee,23,Affirmative,True,False,True
+23,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,5273,James F. Gennaro,James F. Gennaro,24,Affirmative,True,False,True
+24,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7815,Shekar Krishnan,Shekar Krishnan,25,Affirmative,True,False,True
+25,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7816,Julie Won,Julie Won,26,Affirmative,True,False,True
+26,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7817,Nantasha M. Williams,Nantasha M. Williams,27,Affirmative,True,False,True
+27,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,True
+28,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7818,Lynn C. Schulman,Lynn C. Schulman,29,Affirmative,True,False,True
+29,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Negative,False,True,False
+30,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7796,Selvena N. Brooks-Powers,Selvena N. Brooks-Powers,31,Affirmative,True,False,True
+31,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7819,Joann Ariola ,Joann Ariola ,32,Negative,False,True,False
+32,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7820,Lincoln Restler,Lincoln Restler,33,Affirmative,True,False,True
+33,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7821,Jennifer Gutiérrez,Jennifer Gutiérrez,34,Affirmative,True,False,True
+34,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7822,Crystal Hudson,Crystal Hudson,35,Affirmative,True,False,True
+35,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7823,Chi A. Ossé,Chi A. Ossé,36,Affirmative,True,False,True
+36,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7824,Sandy Nurse,Sandy Nurse,37,Affirmative,True,False,True
+37,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7825,Alexa Avilés,Alexa Avilés,38,Affirmative,True,False,True
+38,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7826,Shahana K. Hanif,Shahana K. Hanif,39,Affirmative,True,False,True
+39,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7827,Rita C. Joseph,Rita C. Joseph,40,Affirmative,True,False,True
+40,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,6272,Darlene Mealy,Darlene Mealy,41,Negative,False,True,False
+41,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7864,Chris Banks,Chris Banks,42,Affirmative,True,False,True
+42,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7867,Susan Zhuang,Susan Zhuang,43,Abstain,False,False,False
+43,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,5289,Simcha Felder,Simcha Felder,44,Negative,False,True,False
+44,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7785,Farah N. Louis,Farah N. Louis,45,Affirmative,True,False,True
+45,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7829,Mercedes Narcisse,Mercedes Narcisse,46,Affirmative,True,False,True
+46,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,47,Affirmative,True,False,True
+47,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7831,Inna Vernikov,Inna Vernikov,48,Negative,False,True,False
+48,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7832,Kamillah Hanks,Kamillah Hanks,49,Affirmative,True,False,True
+49,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7833,David M. Carr,David M. Carr,50,Affirmative,True,False,True
+50,Int 0047-2024,pro_vendor,Approved by Council,2025-06-30 13:30:00,7887,Frank Morano,Frank Morano,51,Negative,False,True,False
+51,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7801,Christopher Marte,Christopher Marte,1,Affirmative,True,False,False
+52,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7740,Carlina Rivera ,Carlina Rivera ,2,Affirmative,True,False,False
+53,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7802,Erik D. Bottcher,Erik D. Bottcher,3,Affirmative,True,False,False
+54,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,False
+55,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7803,Julie Menin,Julie Menin,5,Affirmative,True,False,False
+56,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,5259,Gale A. Brewer,Gale A. Brewer,6,Affirmative,True,False,False
+57,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7804,Shaun Abreu,Shaun Abreu,7,Absent,False,False,False
+58,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,False
+59,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7866,Yusef Salaam,Yusef Salaam,9,Affirmative,True,False,False
+60,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7806,Carmen N. De La Rosa,Carmen N. De La Rosa,10,Affirmative,True,False,False
+61,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7799,Eric Dinowitz,Eric Dinowitz,11,Affirmative,True,False,False
+62,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7794,Kevin C. Riley,Kevin C. Riley,12,Absent,False,False,False
+63,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7865,Kristy Marmorato,Kristy Marmorato,13,Affirmative,True,False,False
+64,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7808,Pierina Ana Sanchez,Pierina Ana Sanchez,14,Affirmative,True,False,False
+65,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7798,Oswald J. Feliz,Oswald J. Feliz,15,Affirmative,True,False,False
+66,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7809,Althea V.  Stevens,Althea V.  Stevens,16,Affirmative,True,False,False
+67,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,False
+68,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7810,Amanda C. Farías,Amanda C. Farías,18,Affirmative,True,False,False
+69,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7811,Vickie Paladino,Vickie Paladino,19,Affirmative,True,False,False
+70,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7812,Sandra Ung,Sandra Ung,20,Affirmative,True,False,False
+71,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Affirmative,True,False,False
+72,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7813,Tiffany L. Cabán,Tiffany L. Cabán,22,Affirmative,True,False,False
+73,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7814,Linda Lee,Linda Lee,23,Affirmative,True,False,False
+74,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,5273,James F. Gennaro,James F. Gennaro,24,Affirmative,True,False,False
+75,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7815,Shekar Krishnan,Shekar Krishnan,25,Affirmative,True,False,False
+76,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7816,Julie Won,Julie Won,26,Parental ,False,False,False
+77,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7817,Nantasha M. Williams,Nantasha M. Williams,27,Affirmative,True,False,False
+78,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,False
+79,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7818,Lynn C. Schulman,Lynn C. Schulman,29,Affirmative,True,False,False
+80,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Affirmative,True,False,False
+81,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7796,Selvena N. Brooks-Powers,Selvena N. Brooks-Powers,31,Absent,False,False,False
+82,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7819,Joann Ariola ,Joann Ariola ,32,Affirmative,True,False,False
+83,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7820,Lincoln Restler,Lincoln Restler,33,Affirmative,True,False,False
+84,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7821,Jennifer Gutiérrez,Jennifer Gutiérrez,34,Affirmative,True,False,False
+85,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7822,Crystal Hudson,Crystal Hudson,35,Affirmative,True,False,False
+86,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7823,Chi A. Ossé,Chi A. Ossé,36,Affirmative,True,False,False
+87,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7824,Sandy Nurse,Sandy Nurse,37,Affirmative,True,False,False
+88,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7825,Alexa Avilés,Alexa Avilés,38,Affirmative,True,False,False
+89,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7826,Shahana K. Hanif,Shahana K. Hanif,39,Affirmative,True,False,False
+90,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7827,Rita C. Joseph,Rita C. Joseph,40,Affirmative,True,False,False
+91,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,6272,Darlene Mealy,Darlene Mealy,41,Absent,False,False,False
+92,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7864,Chris Banks,Chris Banks,42,Affirmative,True,False,False
+93,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7867,Susan Zhuang,Susan Zhuang,43,Affirmative,True,False,False
+94,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7749,Kalman Yeger ,Kalman Yeger ,44,Affirmative,True,False,False
+95,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7785,Farah N. Louis,Farah N. Louis,45,Affirmative,True,False,False
+96,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7829,Mercedes Narcisse,Mercedes Narcisse,46,Affirmative,True,False,False
+97,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,47,Affirmative,True,False,False
+98,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7831,Inna Vernikov,Inna Vernikov,48,Affirmative,True,False,False
+99,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7832,Kamillah Hanks,Kamillah Hanks,49,Absent,False,False,False
+100,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7833,David M. Carr,David M. Carr,50,Affirmative,True,False,False
+101,Int 0050-2024,anti_vendor,Approved by Council,2024-02-28 13:30:00,7264,Joseph C. Borelli,Joseph C. Borelli,51,Affirmative,True,False,False
+102,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7801,Christopher Marte,Christopher Marte,1,Affirmative,True,False,True
+103,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7893,Harvey D. Epstein,Harvey D. Epstein,2,Affirmative,True,False,True
+104,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7802,Erik D. Bottcher,Erik D. Bottcher,3,Affirmative,True,False,True
+105,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,True
+106,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7803,Julie Menin,Julie Menin,5,Affirmative,True,False,True
+107,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,5259,Gale A. Brewer,Gale A. Brewer,6,Affirmative,True,False,True
+108,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7804,Shaun Abreu,Shaun Abreu,7,Affirmative,True,False,True
+109,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,True
+110,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7866,Yusef Salaam,Yusef Salaam,9,Affirmative,True,False,True
+111,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7806,Carmen N. De La Rosa,Carmen N. De La Rosa,10,Affirmative,True,False,True
+112,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7799,Eric Dinowitz,Eric Dinowitz,11,Affirmative,True,False,True
+113,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7794,Kevin C. Riley,Kevin C. Riley,12,Affirmative,True,False,True
+114,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7865,Kristy Marmorato,Kristy Marmorato,13,Affirmative,True,False,True
+115,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7808,Pierina Ana Sanchez,Pierina Ana Sanchez,14,Affirmative,True,False,True
+116,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7798,Oswald J. Feliz,Oswald J. Feliz,15,Affirmative,True,False,True
+117,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7809,Althea V.  Stevens,Althea V.  Stevens,16,Affirmative,True,False,True
+118,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,True
+119,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7810,Amanda C. Farías,Amanda C. Farías,18,Affirmative,True,False,True
+120,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7811,Vickie Paladino,Vickie Paladino,19,Affirmative,True,False,True
+121,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7812,Sandra Ung,Sandra Ung,20,Affirmative,True,False,True
+122,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Affirmative,True,False,True
+123,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7813,Tiffany L. Cabán,Tiffany L. Cabán,22,Affirmative,True,False,True
+124,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7814,Linda Lee,Linda Lee,23,Affirmative,True,False,True
+125,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,5273,James F. Gennaro,James F. Gennaro,24,Affirmative,True,False,True
+126,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7815,Shekar Krishnan,Shekar Krishnan,25,Affirmative,True,False,True
+127,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7816,Julie Won,Julie Won,26,Affirmative,True,False,True
+128,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7817,Nantasha M. Williams,Nantasha M. Williams,27,Affirmative,True,False,True
+129,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,True
+130,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7818,Lynn C. Schulman,Lynn C. Schulman,29,Affirmative,True,False,True
+131,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Affirmative,True,False,True
+132,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7796,Selvena N. Brooks-Powers,Selvena N. Brooks-Powers,31,Affirmative,True,False,True
+133,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7819,Joann Ariola ,Joann Ariola ,32,Affirmative,True,False,True
+134,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7820,Lincoln Restler,Lincoln Restler,33,Affirmative,True,False,True
+135,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7821,Jennifer Gutiérrez,Jennifer Gutiérrez,34,Affirmative,True,False,True
+136,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7822,Crystal Hudson,Crystal Hudson,35,Affirmative,True,False,True
+137,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7823,Chi A. Ossé,Chi A. Ossé,36,Affirmative,True,False,True
+138,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7824,Sandy Nurse,Sandy Nurse,37,Affirmative,True,False,True
+139,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7825,Alexa Avilés,Alexa Avilés,38,Affirmative,True,False,True
+140,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7826,Shahana K. Hanif,Shahana K. Hanif,39,Affirmative,True,False,True
+141,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7827,Rita C. Joseph,Rita C. Joseph,40,Affirmative,True,False,True
+142,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,6272,Darlene Mealy,Darlene Mealy,41,Negative,False,True,False
+143,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7864,Chris Banks,Chris Banks,42,Affirmative,True,False,True
+144,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7867,Susan Zhuang,Susan Zhuang,43,Absent,False,False,False
+145,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,5289,Simcha Felder,Simcha Felder,44,Affirmative,True,False,True
+146,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7785,Farah N. Louis,Farah N. Louis,45,Affirmative,True,False,True
+147,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7829,Mercedes Narcisse,Mercedes Narcisse,46,Affirmative,True,False,True
+148,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,47,Affirmative,True,False,True
+149,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7831,Inna Vernikov,Inna Vernikov,48,Affirmative,True,False,True
+150,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7832,Kamillah Hanks,Kamillah Hanks,49,Absent,False,False,False
+151,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7833,David M. Carr,David M. Carr,50,Absent,False,False,False
+152,Int 0408-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7887,Frank Morano,Frank Morano,51,Affirmative,True,False,True
+153,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7801,Christopher Marte,Christopher Marte,1,Affirmative,True,False,True
+154,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7893,Harvey D. Epstein,Harvey D. Epstein,2,Affirmative,True,False,True
+155,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7802,Erik D. Bottcher,Erik D. Bottcher,3,Affirmative,True,False,True
+156,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,True
+157,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7803,Julie Menin,Julie Menin,5,Affirmative,True,False,True
+158,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,5259,Gale A. Brewer,Gale A. Brewer,6,Affirmative,True,False,True
+159,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7804,Shaun Abreu,Shaun Abreu,7,Affirmative,True,False,True
+160,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,True
+161,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7866,Yusef Salaam,Yusef Salaam,9,Affirmative,True,False,True
+162,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7806,Carmen N. De La Rosa,Carmen N. De La Rosa,10,Affirmative,True,False,True
+163,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7799,Eric Dinowitz,Eric Dinowitz,11,Affirmative,True,False,True
+164,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7794,Kevin C. Riley,Kevin C. Riley,12,Affirmative,True,False,True
+165,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7865,Kristy Marmorato,Kristy Marmorato,13,Negative,False,True,False
+166,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7808,Pierina Ana Sanchez,Pierina Ana Sanchez,14,Affirmative,True,False,True
+167,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7798,Oswald J. Feliz,Oswald J. Feliz,15,Affirmative,True,False,True
+168,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7809,Althea V.  Stevens,Althea V.  Stevens,16,Affirmative,True,False,True
+169,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,True
+170,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7810,Amanda C. Farías,Amanda C. Farías,18,Affirmative,True,False,True
+171,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7811,Vickie Paladino,Vickie Paladino,19,Negative,False,True,False
+172,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7812,Sandra Ung,Sandra Ung,20,Negative,False,True,False
+173,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Affirmative,True,False,True
+174,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7813,Tiffany L. Cabán,Tiffany L. Cabán,22,Affirmative,True,False,True
+175,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7814,Linda Lee,Linda Lee,23,Affirmative,True,False,True
+176,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,5273,James F. Gennaro,James F. Gennaro,24,Affirmative,True,False,True
+177,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7815,Shekar Krishnan,Shekar Krishnan,25,Affirmative,True,False,True
+178,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7816,Julie Won,Julie Won,26,Affirmative,True,False,True
+179,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7817,Nantasha M. Williams,Nantasha M. Williams,27,Affirmative,True,False,True
+180,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,True
+181,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7818,Lynn C. Schulman,Lynn C. Schulman,29,Affirmative,True,False,True
+182,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Negative,False,True,False
+183,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7796,Selvena N. Brooks-Powers,Selvena N. Brooks-Powers,31,Affirmative,True,False,True
+184,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7819,Joann Ariola ,Joann Ariola ,32,Negative,False,True,False
+185,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7820,Lincoln Restler,Lincoln Restler,33,Affirmative,True,False,True
+186,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7821,Jennifer Gutiérrez,Jennifer Gutiérrez,34,Affirmative,True,False,True
+187,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7822,Crystal Hudson,Crystal Hudson,35,Affirmative,True,False,True
+188,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7823,Chi A. Ossé,Chi A. Ossé,36,Affirmative,True,False,True
+189,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7824,Sandy Nurse,Sandy Nurse,37,Affirmative,True,False,True
+190,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7825,Alexa Avilés,Alexa Avilés,38,Affirmative,True,False,True
+191,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7826,Shahana K. Hanif,Shahana K. Hanif,39,Affirmative,True,False,True
+192,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7827,Rita C. Joseph,Rita C. Joseph,40,Affirmative,True,False,True
+193,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,6272,Darlene Mealy,Darlene Mealy,41,Negative,False,True,False
+194,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7864,Chris Banks,Chris Banks,42,Affirmative,True,False,True
+195,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7867,Susan Zhuang,Susan Zhuang,43,Absent,False,False,False
+196,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,5289,Simcha Felder,Simcha Felder,44,Negative,False,True,False
+197,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7785,Farah N. Louis,Farah N. Louis,45,Affirmative,True,False,True
+198,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7829,Mercedes Narcisse,Mercedes Narcisse,46,Affirmative,True,False,True
+199,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,47,Affirmative,True,False,True
+200,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7831,Inna Vernikov,Inna Vernikov,48,Negative,False,True,False
+201,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7832,Kamillah Hanks,Kamillah Hanks,49,Absent,False,False,False
+202,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7833,David M. Carr,David M. Carr,50,Absent,False,False,False
+203,Int 0431-2024,pro_vendor,Approved by Council,2025-12-18 13:30:00,7887,Frank Morano,Frank Morano,51,Negative,False,True,False
+204,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5258,Alan J. Gerson,Alan J. Gerson,1,Affirmative,True,False,False
+205,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,429,Margarita Lopez,Margarita Lopez,2,Affirmative,True,False,False
+206,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,434,Christine C. Quinn,Christine C. Quinn,3,Affirmative,True,False,False
+207,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5229,Eva S. Moskowitz,Eva S. Moskowitz,4,Affirmative,True,False,False
+208,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,422,Gifford Miller,Gifford Miller,5,Affirmative,True,False,False
+209,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5259,Gale A. Brewer,Gale A. Brewer,6,Affirmative,True,False,False
+210,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5260,Robert Jackson,Robert Jackson,7,Affirmative,True,False,False
+211,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,432,Philip Reed,Philip Reed,8,Affirmative,True,False,False
+212,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,430,Bill Perkins,Bill Perkins,9,Affirmative,True,False,False
+213,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5261,Miguel Martinez,Miguel Martinez,10,Affirmative,True,False,False
+214,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5262,G. Oliver Koppell,G. Oliver Koppell,11,Affirmative,True,False,False
+215,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5263,Larry B. Seabrook,Larry B. Seabrook,12,Affirmative,True,False,False
+216,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,431,Madeline T. Provenzano,Madeline T. Provenzano,13,Negative,False,True,True
+217,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5264,Maria Baez,Maria Baez,14,Affirmative,True,False,False
+218,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5244,Joel Rivera,Joel Rivera,15,Affirmative,True,False,False
+219,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5265,Helen D. Foster,Helen D. Foster,16,Affirmative,True,False,False
+220,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5911,Maria Del Carmen Arroyo,Maria Del Carmen Arroyo,17,Affirmative,True,False,False
+221,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5416,Annabel Palma,Annabel Palma,18,Excused,False,False,False
+222,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5268,Tony Avella,Tony Avella,19,Negative,False,True,True
+223,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5269,John C. Liu,John C. Liu,20,Affirmative,True,False,False
+224,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5270,Hiram Monserrate,Hiram Monserrate,21,Affirmative,True,False,False
+225,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5271,"Peter F. Vallone, Jr.","Peter F. Vallone, Jr.",22,Negative,False,True,True
+226,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5272,David I. Weprin,David I. Weprin,23,Affirmative,True,False,False
+227,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5273,James F. Gennaro,James F. Gennaro,24,Affirmative,True,False,False
+228,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5274,Helen Sears,Helen Sears,25,Affirmative,True,False,False
+229,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5275,Eric N. Gioia,Eric N. Gioia,26,Affirmative,True,False,False
+230,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5276,"Leroy G. Comrie, Jr.","Leroy G. Comrie, Jr.",27,Affirmative,True,False,False
+231,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5277,"Allan W. Jennings, Jr.","Allan W. Jennings, Jr.",28,Affirmative,True,False,False
+232,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5278,Melinda R. Katz,Melinda R. Katz,29,Affirmative,True,False,False
+233,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5279,Dennis P. Gallagher,Dennis P. Gallagher,30,Negative,False,True,True
+234,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5280,"James Sanders, Jr.","James Sanders, Jr.",31,Affirmative,True,False,False
+235,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5281,"Joseph P. Addabbo, Jr.","Joseph P. Addabbo, Jr.",32,Affirmative,True,False,False
+236,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5282,David Yassky,David Yassky,33,Affirmative,True,False,False
+237,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5256,Diana Reyna,Diana Reyna,34,Affirmative,True,False,False
+238,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5417,Letitia James,Letitia James,35,Affirmative,True,False,False
+239,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5284,Albert Vann,Albert Vann,36,Affirmative,True,False,False
+240,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5285,Erik Martin Dilan,Erik Martin Dilan,37,Affirmative,True,False,False
+241,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5376,Sara M. Gonzalez,Sara M. Gonzalez,38,Affirmative,True,False,False
+242,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5286,Bill De Blasio,Bill De Blasio,39,Affirmative,True,False,False
+243,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5287,Yvette D. Clarke,Yvette D. Clarke,40,Affirmative,True,False,False
+244,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,424,Tracy L. Boyland,Tracy L. Boyland,41,Affirmative,True,False,False
+245,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5288,Charles Barron,Charles Barron,42,Affirmative,True,False,False
+246,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5390,Vincent J. Gentile,Vincent J. Gentile,43,Affirmative,True,False,False
+247,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5289,Simcha Felder,Simcha Felder,44,Affirmative,True,False,False
+248,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5290,Kendall Stewart,Kendall Stewart,45,Affirmative,True,False,False
+249,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5291,Lewis A. Fidler,Lewis A. Fidler,46,Affirmative,True,False,False
+250,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5292,"Domenic M. Recchia, Jr.","Domenic M. Recchia, Jr.",47,Affirmative,True,False,False
+251,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,435,Michael C. Nelson,Michael C. Nelson,48,Negative,False,True,True
+252,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5293,Michael E. McMahon,Michael E. McMahon,49,Negative,False,True,True
+253,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,436,James S. Oddo,James S. Oddo,50,Negative,False,True,True
+254,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5255,Andrew J. Lanza,Andrew J. Lanza,51,Negative,False,True,True
+255,Int 0491-2004,anti_vendor,Approved by Council,2005-06-23 13:30:00,5294,Betsy Gotbaum,Betsy Gotbaum,,Non-voting,False,True,True
+256,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5258,Alan J. Gerson,Alan J. Gerson,1,Affirmative,True,False,False
+257,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,429,Margarita Lopez,Margarita Lopez,2,Affirmative,True,False,False
+258,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,434,Christine C. Quinn,Christine C. Quinn,3,Affirmative,True,False,False
+259,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5229,Eva S. Moskowitz,Eva S. Moskowitz,4,Affirmative,True,False,False
+260,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,422,Gifford Miller,Gifford Miller,5,Affirmative,True,False,False
+261,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5259,Gale A. Brewer,Gale A. Brewer,6,Affirmative,True,False,False
+262,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5260,Robert Jackson,Robert Jackson,7,Affirmative,True,False,False
+263,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,432,Philip Reed,Philip Reed,8,Affirmative,True,False,False
+264,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,430,Bill Perkins,Bill Perkins,9,Affirmative,True,False,False
+265,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5261,Miguel Martinez,Miguel Martinez,10,Affirmative,True,False,False
+266,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5262,G. Oliver Koppell,G. Oliver Koppell,11,Affirmative,True,False,False
+267,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5263,Larry B. Seabrook,Larry B. Seabrook,12,Excused,False,False,False
+268,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,431,Madeline T. Provenzano,Madeline T. Provenzano,13,Non-voting,False,True,True
+269,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5264,Maria Baez,Maria Baez,14,Excused,False,False,False
+270,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5244,Joel Rivera,Joel Rivera,15,Affirmative,True,False,False
+271,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5265,Helen D. Foster,Helen D. Foster,16,Affirmative,True,False,False
+272,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5911,Maria Del Carmen Arroyo,Maria Del Carmen Arroyo,17,Affirmative,True,False,False
+273,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5416,Annabel Palma,Annabel Palma,18,Affirmative,True,False,False
+274,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5268,Tony Avella,Tony Avella,19,Affirmative,True,False,False
+275,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5269,John C. Liu,John C. Liu,20,Affirmative,True,False,False
+276,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5270,Hiram Monserrate,Hiram Monserrate,21,Affirmative,True,False,False
+277,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5271,"Peter F. Vallone, Jr.","Peter F. Vallone, Jr.",22,Affirmative,True,False,False
+278,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5272,David I. Weprin,David I. Weprin,23,Affirmative,True,False,False
+279,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5273,James F. Gennaro,James F. Gennaro,24,Affirmative,True,False,False
+280,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5274,Helen Sears,Helen Sears,25,Affirmative,True,False,False
+281,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5275,Eric N. Gioia,Eric N. Gioia,26,Excused,False,False,False
+282,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5276,"Leroy G. Comrie, Jr.","Leroy G. Comrie, Jr.",27,Affirmative,True,False,False
+283,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5277,"Allan W. Jennings, Jr.","Allan W. Jennings, Jr.",28,Affirmative,True,False,False
+284,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5278,Melinda R. Katz,Melinda R. Katz,29,Affirmative,True,False,False
+285,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5279,Dennis P. Gallagher,Dennis P. Gallagher,30,Affirmative,True,False,False
+286,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5280,"James Sanders, Jr.","James Sanders, Jr.",31,Affirmative,True,False,False
+287,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5281,"Joseph P. Addabbo, Jr.","Joseph P. Addabbo, Jr.",32,Affirmative,True,False,False
+288,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5282,David Yassky,David Yassky,33,Affirmative,True,False,False
+289,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5256,Diana Reyna,Diana Reyna,34,Affirmative,True,False,False
+290,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5417,Letitia James,Letitia James,35,Affirmative,True,False,False
+291,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5284,Albert Vann,Albert Vann,36,Affirmative,True,False,False
+292,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5285,Erik Martin Dilan,Erik Martin Dilan,37,Affirmative,True,False,False
+293,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5376,Sara M. Gonzalez,Sara M. Gonzalez,38,Affirmative,True,False,False
+294,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5286,Bill De Blasio,Bill De Blasio,39,Affirmative,True,False,False
+295,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5287,Yvette D. Clarke,Yvette D. Clarke,40,Affirmative,True,False,False
+296,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,424,Tracy L. Boyland,Tracy L. Boyland,41,Affirmative,True,False,False
+297,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5288,Charles Barron,Charles Barron,42,Affirmative,True,False,False
+298,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5390,Vincent J. Gentile,Vincent J. Gentile,43,Affirmative,True,False,False
+299,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5289,Simcha Felder,Simcha Felder,44,Affirmative,True,False,False
+300,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5290,Kendall Stewart,Kendall Stewart,45,Affirmative,True,False,False
+301,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5291,Lewis A. Fidler,Lewis A. Fidler,46,Affirmative,True,False,False
+302,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5292,"Domenic M. Recchia, Jr.","Domenic M. Recchia, Jr.",47,Affirmative,True,False,False
+303,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,435,Michael C. Nelson,Michael C. Nelson,48,Affirmative,True,False,False
+304,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5293,Michael E. McMahon,Michael E. McMahon,49,Affirmative,True,False,False
+305,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,436,James S. Oddo,James S. Oddo,50,Affirmative,True,False,False
+306,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5255,Andrew J. Lanza,Andrew J. Lanza,51,Affirmative,True,False,False
+307,Int 0696-2005,anti_vendor,Approved by Council,2005-12-21 13:30:00,5294,Betsy Gotbaum,Betsy Gotbaum,,Non-voting,False,True,True
+308,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7562,Margaret S. Chin,Margaret S. Chin,1,Affirmative,True,False,True
+309,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,6274,Rosie Mendez,Rosie Mendez,2,Affirmative,True,False,True
+310,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,434,Christine C. Quinn,Christine C. Quinn,3,Affirmative,True,False,True
+311,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,6267,Daniel R. Garodnick,Daniel R. Garodnick,4,Affirmative,True,False,True
+312,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,6268,Jessica S. Lappin,Jessica S. Lappin,5,Affirmative,True,False,True
+313,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5259,Gale A. Brewer,Gale A. Brewer,6,Affirmative,True,False,True
+314,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5260,Robert Jackson,Robert Jackson,7,Affirmative,True,False,True
+315,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,6269,Melissa Mark-Viverito,Melissa Mark-Viverito,8,Affirmative,True,False,True
+316,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,6270,Inez E. Dickens,Inez E. Dickens,9,Affirmative,True,False,True
+317,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7541,Ydanis A. Rodriguez,Ydanis A. Rodriguez,10,Excused,False,False,False
+318,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5262,G. Oliver Koppell,G. Oliver Koppell,11,Affirmative,True,False,True
+319,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7613,Andy L. King,Andy L. King,12,Affirmative,True,False,True
+320,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,6271,James Vacca,James Vacca,13,Affirmative,True,False,True
+321,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7561,Fernando Cabrera ,Fernando Cabrera ,14,Excused,False,False,False
+322,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5244,Joel Rivera,Joel Rivera,15,Affirmative,True,False,True
+323,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5265,Helen D. Foster,Helen D. Foster,16,Affirmative,True,False,True
+324,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5911,Maria Del Carmen Arroyo,Maria Del Carmen Arroyo,17,Affirmative,True,False,True
+325,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5416,Annabel Palma,Annabel Palma,18,Affirmative,True,False,True
+326,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7564,Daniel J. Halloran III,Daniel J. Halloran III,19,Affirmative,True,False,True
+327,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7565,Peter A. Koo,Peter A. Koo,20,Affirmative,True,False,True
+328,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7509,Julissa Ferreras-Copeland,Julissa Ferreras-Copeland,21,Affirmative,True,False,True
+329,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5271,"Peter F. Vallone, Jr.","Peter F. Vallone, Jr.",22,Affirmative,True,False,True
+330,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7570,Mark S. Weprin,Mark S. Weprin,23,Affirmative,True,False,True
+331,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5273,James F. Gennaro,James F. Gennaro,24,Affirmative,True,False,True
+332,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7563,Daniel Dromm ,Daniel Dromm ,25,Affirmative,True,False,True
+333,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7569,James G. Van Bramer,James G. Van Bramer,26,Affirmative,True,False,True
+334,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5276,"Leroy G. Comrie, Jr.","Leroy G. Comrie, Jr.",27,Affirmative,True,False,True
+335,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7586,Ruben Wills,Ruben Wills,28,Affirmative,True,False,True
+336,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,386,Karen Koslowitz,Karen Koslowitz,29,Affirmative,True,False,True
+337,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7502,Elizabeth S. Crowley,Elizabeth S. Crowley,30,Affirmative,True,False,True
+338,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7510,Eric A. Ulrich,Eric A. Ulrich,32,Affirmative,True,False,True
+339,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7567,Stephen T. Levin,Stephen T. Levin,33,Affirmative,True,False,True
+340,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5256,Diana Reyna,Diana Reyna,34,Affirmative,True,False,True
+341,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5417,Letitia James,Letitia James,35,Affirmative,True,False,True
+342,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5284,Albert Vann,Albert Vann,36,Affirmative,True,False,True
+343,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5285,Erik Martin Dilan,Erik Martin Dilan,37,Affirmative,True,False,True
+344,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5376,Sara M. Gonzalez,Sara M. Gonzalez,38,Affirmative,True,False,True
+345,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7566,Brad S. Lander,Brad S. Lander,39,Affirmative,True,False,True
+346,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7113,Mathieu Eugene,Mathieu Eugene,40,Affirmative,True,False,True
+347,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,6272,Darlene Mealy,Darlene Mealy,41,Affirmative,True,False,True
+348,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5288,Charles Barron,Charles Barron,42,Affirmative,True,False,True
+349,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5390,Vincent J. Gentile,Vincent J. Gentile,43,Affirmative,True,False,True
+350,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7577,David G. Greenfield,David G. Greenfield,44,Affirmative,True,False,True
+351,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7571,Jumaane D. Williams,Jumaane D. Williams,45,Affirmative,True,False,True
+352,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5291,Lewis A. Fidler,Lewis A. Fidler,46,Affirmative,True,False,True
+353,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,5292,"Domenic M. Recchia, Jr.","Domenic M. Recchia, Jr.",47,Affirmative,True,False,True
+354,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,435,Michael C. Nelson,Michael C. Nelson,48,Affirmative,True,False,True
+355,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7568,Deborah L. Rose,Deborah L. Rose,49,Excused,False,False,False
+356,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,436,James S. Oddo,James S. Oddo,50,Affirmative,True,False,True
+357,Int 0817-2012,pro_vendor,Approved by Council,2013-02-27 13:30:00,7112,Vincent Ignizio,Vincent Ignizio,51,Affirmative,True,False,True
+358,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7562,Margaret S. Chin,Margaret S. Chin,1,Affirmative,True,False,False
+359,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7740,Carlina Rivera ,Carlina Rivera ,2,Affirmative,True,False,False
+360,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7631,Corey D. Johnson,Corey D. Johnson,3,Affirmative,True,False,False
+361,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,False
+362,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7632,Ben Kallos,Ben Kallos,5,Affirmative,True,False,False
+363,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7639,Helen K. Rosenthal,Helen K. Rosenthal,6,Affirmative,True,False,False
+364,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7634,Mark Levine,Mark Levine,7,Affirmative,True,False,False
+365,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,False
+366,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,430,Bill Perkins,Bill Perkins,9,Negative,False,True,True
+367,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7541,Ydanis A. Rodriguez,Ydanis A. Rodriguez,10,Affirmative,True,False,False
+368,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7624,Andrew Cohen,Andrew Cohen,11,Affirmative,True,False,False
+369,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7613,Andy L. King,Andy L. King,12,Absent,False,False,False
+370,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7743,Mark Gjonaj ,Mark Gjonaj ,13,Affirmative,True,False,False
+371,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7561,Fernando Cabrera ,Fernando Cabrera ,14,Affirmative,True,False,False
+372,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7640,Ritchie J. Torres,Ritchie J. Torres,15,Affirmative,True,False,False
+373,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7622,Vanessa L. Gibson,Vanessa L. Gibson,16,Affirmative,True,False,False
+374,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,False
+375,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7744,"Ruben Diaz, Sr.","Ruben Diaz, Sr.",18,Negative,False,True,True
+376,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7642,Paul A. Vallone,Paul A. Vallone,19,Affirmative,True,False,False
+377,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7565,Peter A. Koo,Peter A. Koo,20,Affirmative,True,False,False
+378,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Affirmative,True,False,False
+379,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7627,Costa G. Constantinides,Costa G. Constantinides,22,Affirmative,True,False,False
+380,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7691,Barry S. Grodenchik,Barry S. Grodenchik,23,Affirmative,True,False,False
+381,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7633,Rory I. Lancman,Rory I. Lancman,24,Affirmative,True,False,False
+382,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7563,Daniel Dromm ,Daniel Dromm ,25,Affirmative,True,False,False
+383,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7569,James G. Van Bramer,James G. Van Bramer,26,Affirmative,True,False,False
+384,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7637,I. Daneek Miller,I. Daneek Miller,27,Affirmative,True,False,False
+385,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,False
+386,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,386,Karen Koslowitz,Karen Koslowitz,29,Affirmative,True,False,False
+387,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Affirmative,True,False,False
+388,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7617,Donovan J. Richards,Donovan J. Richards,31,Affirmative,True,False,False
+389,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7510,Eric A. Ulrich,Eric A. Ulrich,32,Affirmative,True,False,False
+390,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7567,Stephen T. Levin,Stephen T. Levin,33,Negative,False,True,True
+391,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7638,Antonio Reynoso,Antonio Reynoso,34,Affirmative,True,False,False
+392,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7628,Laurie A. Cumbo,Laurie A. Cumbo,35,Affirmative,True,False,False
+393,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7604,"Robert E. Cornegy, Jr.","Robert E. Cornegy, Jr.",36,Negative,False,True,True
+394,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7630,"Rafael L. Espinal, Jr.","Rafael L. Espinal, Jr.",37,Affirmative,True,False,False
+395,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7636,Carlos Menchaca,Carlos Menchaca,38,Negative,False,True,True
+396,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7566,Brad S. Lander,Brad S. Lander,39,Abstain,False,False,False
+397,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7113,Mathieu Eugene,Mathieu Eugene,40,Affirmative,True,False,False
+398,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7747,Alicka Ampry-Samuel ,Alicka Ampry-Samuel ,41,Affirmative,True,False,False
+399,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7623,Inez D. Barron,Inez D. Barron,42,Negative,False,True,True
+400,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,43,Negative,False,True,True
+401,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7749,Kalman Yeger ,Kalman Yeger ,44,Affirmative,True,False,False
+402,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7571,Jumaane D. Williams,Jumaane D. Williams,45,Negative,False,True,True
+403,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7635,Alan N. Maisel,Alan N. Maisel,46,Affirmative,True,False,False
+404,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7641,Mark Treyger,Mark Treyger,47,Abstain,False,False,False
+405,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7629,Chaim M. Deutsch,Chaim M. Deutsch,48,Affirmative,True,False,False
+406,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7568,Deborah L. Rose,Deborah L. Rose,49,Affirmative,True,False,False
+407,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,5953,Steven Matteo,Steven Matteo,50,Affirmative,True,False,False
+408,Int 0959-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7264,Joseph C. Borelli,Joseph C. Borelli,51,Affirmative,True,False,False
+409,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7562,Margaret S. Chin,Margaret S. Chin,1,Affirmative,True,False,False
+410,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7740,Carlina Rivera ,Carlina Rivera ,2,Affirmative,True,False,False
+411,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7631,Corey D. Johnson,Corey D. Johnson,3,Affirmative,True,False,False
+412,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,False
+413,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7632,Ben Kallos,Ben Kallos,5,Affirmative,True,False,False
+414,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7639,Helen K. Rosenthal,Helen K. Rosenthal,6,Affirmative,True,False,False
+415,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7634,Mark Levine,Mark Levine,7,Negative,False,True,True
+416,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,False
+417,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,430,Bill Perkins,Bill Perkins,9,Negative,False,True,True
+418,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7541,Ydanis A. Rodriguez,Ydanis A. Rodriguez,10,Affirmative,True,False,False
+419,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7624,Andrew Cohen,Andrew Cohen,11,Affirmative,True,False,False
+420,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7613,Andy L. King,Andy L. King,12,Absent,False,False,False
+421,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7743,Mark Gjonaj ,Mark Gjonaj ,13,Affirmative,True,False,False
+422,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7561,Fernando Cabrera ,Fernando Cabrera ,14,Affirmative,True,False,False
+423,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7640,Ritchie J. Torres,Ritchie J. Torres,15,Affirmative,True,False,False
+424,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7622,Vanessa L. Gibson,Vanessa L. Gibson,16,Affirmative,True,False,False
+425,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,False
+426,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7744,"Ruben Diaz, Sr.","Ruben Diaz, Sr.",18,Negative,False,True,True
+427,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7642,Paul A. Vallone,Paul A. Vallone,19,Affirmative,True,False,False
+428,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7565,Peter A. Koo,Peter A. Koo,20,Affirmative,True,False,False
+429,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Affirmative,True,False,False
+430,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7627,Costa G. Constantinides,Costa G. Constantinides,22,Affirmative,True,False,False
+431,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7691,Barry S. Grodenchik,Barry S. Grodenchik,23,Affirmative,True,False,False
+432,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7633,Rory I. Lancman,Rory I. Lancman,24,Affirmative,True,False,False
+433,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7563,Daniel Dromm ,Daniel Dromm ,25,Affirmative,True,False,False
+434,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7569,James G. Van Bramer,James G. Van Bramer,26,Affirmative,True,False,False
+435,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7637,I. Daneek Miller,I. Daneek Miller,27,Affirmative,True,False,False
+436,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,False
+437,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,386,Karen Koslowitz,Karen Koslowitz,29,Affirmative,True,False,False
+438,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Affirmative,True,False,False
+439,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7617,Donovan J. Richards,Donovan J. Richards,31,Affirmative,True,False,False
+440,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7510,Eric A. Ulrich,Eric A. Ulrich,32,Affirmative,True,False,False
+441,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7567,Stephen T. Levin,Stephen T. Levin,33,Negative,False,True,True
+442,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7638,Antonio Reynoso,Antonio Reynoso,34,Affirmative,True,False,False
+443,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7628,Laurie A. Cumbo,Laurie A. Cumbo,35,Affirmative,True,False,False
+444,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7604,"Robert E. Cornegy, Jr.","Robert E. Cornegy, Jr.",36,Affirmative,True,False,False
+445,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7630,"Rafael L. Espinal, Jr.","Rafael L. Espinal, Jr.",37,Affirmative,True,False,False
+446,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7636,Carlos Menchaca,Carlos Menchaca,38,Negative,False,True,True
+447,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7566,Brad S. Lander,Brad S. Lander,39,Negative,False,True,True
+448,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7113,Mathieu Eugene,Mathieu Eugene,40,Affirmative,True,False,False
+449,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7747,Alicka Ampry-Samuel ,Alicka Ampry-Samuel ,41,Affirmative,True,False,False
+450,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7623,Inez D. Barron,Inez D. Barron,42,Negative,False,True,True
+451,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,43,Negative,False,True,True
+452,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7749,Kalman Yeger ,Kalman Yeger ,44,Affirmative,True,False,False
+453,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7571,Jumaane D. Williams,Jumaane D. Williams,45,Abstain,False,False,False
+454,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7635,Alan N. Maisel,Alan N. Maisel,46,Affirmative,True,False,False
+455,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7641,Mark Treyger,Mark Treyger,47,Abstain,False,False,False
+456,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7629,Chaim M. Deutsch,Chaim M. Deutsch,48,Affirmative,True,False,False
+457,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7568,Deborah L. Rose,Deborah L. Rose,49,Affirmative,True,False,False
+458,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,5953,Steven Matteo,Steven Matteo,50,Affirmative,True,False,False
+459,Int 0969-2018,anti_vendor,Approved by Council,2018-09-26 13:30:00,7264,Joseph C. Borelli,Joseph C. Borelli,51,Affirmative,True,False,False
+460,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7562,Margaret S. Chin,Margaret S. Chin,1,Affirmative,True,False,True
+461,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7740,Carlina Rivera ,Carlina Rivera ,2,Affirmative,True,False,True
+462,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7631,Corey D. Johnson,Corey D. Johnson,3,Affirmative,True,False,True
+463,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,True
+464,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7632,Ben Kallos,Ben Kallos,5,Affirmative,True,False,True
+465,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7639,Helen K. Rosenthal,Helen K. Rosenthal,6,Affirmative,True,False,True
+466,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7634,Mark Levine,Mark Levine,7,Affirmative,True,False,True
+467,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,True
+468,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,430,Bill Perkins,Bill Perkins,9,Affirmative,True,False,True
+469,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7541,Ydanis A. Rodriguez,Ydanis A. Rodriguez,10,Affirmative,True,False,True
+470,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7794,Kevin C. Riley,Kevin C. Riley,12,Affirmative,True,False,True
+471,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7743,Mark Gjonaj ,Mark Gjonaj ,13,Negative,False,True,False
+472,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7561,Fernando Cabrera ,Fernando Cabrera ,14,Negative,False,True,False
+473,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7622,Vanessa L. Gibson,Vanessa L. Gibson,16,Affirmative,True,False,True
+474,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,True
+475,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7744,"Ruben Diaz, Sr.","Ruben Diaz, Sr.",18,Negative,False,True,False
+476,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7642,Paul A. Vallone,Paul A. Vallone,19,Negative,False,True,False
+477,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7565,Peter A. Koo,Peter A. Koo,20,Affirmative,True,False,True
+478,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Affirmative,True,False,True
+479,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7627,Costa G. Constantinides,Costa G. Constantinides,22,Affirmative,True,False,True
+480,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7691,Barry S. Grodenchik,Barry S. Grodenchik,23,Negative,False,True,False
+481,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7563,Daniel Dromm ,Daniel Dromm ,25,Affirmative,True,False,True
+482,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7569,James G. Van Bramer,James G. Van Bramer,26,Affirmative,True,False,True
+483,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7637,I. Daneek Miller,I. Daneek Miller,27,Affirmative,True,False,True
+484,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,True
+485,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,386,Karen Koslowitz,Karen Koslowitz,29,Affirmative,True,False,True
+486,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Negative,False,True,False
+487,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7510,Eric A. Ulrich,Eric A. Ulrich,32,Negative,False,True,False
+488,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7567,Stephen T. Levin,Stephen T. Levin,33,Affirmative,True,False,True
+489,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7638,Antonio Reynoso,Antonio Reynoso,34,Affirmative,True,False,True
+490,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7628,Laurie A. Cumbo,Laurie A. Cumbo,35,Affirmative,True,False,True
+491,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7604,"Robert E. Cornegy, Jr.","Robert E. Cornegy, Jr.",36,Negative,False,True,False
+492,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7793,Darma V. Diaz,Darma V. Diaz,37,Affirmative,True,False,True
+493,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7636,Carlos Menchaca,Carlos Menchaca,38,Affirmative,True,False,True
+494,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7566,Brad S. Lander,Brad S. Lander,39,Affirmative,True,False,True
+495,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7113,Mathieu Eugene,Mathieu Eugene,40,Affirmative,True,False,True
+496,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7747,Alicka Ampry-Samuel ,Alicka Ampry-Samuel ,41,Affirmative,True,False,True
+497,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7623,Inez D. Barron,Inez D. Barron,42,Affirmative,True,False,True
+498,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,43,Affirmative,True,False,True
+499,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7749,Kalman Yeger ,Kalman Yeger ,44,Negative,False,True,False
+500,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7785,Farah N. Louis,Farah N. Louis,45,Affirmative,True,False,True
+501,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7635,Alan N. Maisel,Alan N. Maisel,46,Negative,False,True,False
+502,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7641,Mark Treyger,Mark Treyger,47,Affirmative,True,False,True
+503,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7629,Chaim M. Deutsch,Chaim M. Deutsch,48,Negative,False,True,False
+504,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7568,Deborah L. Rose,Deborah L. Rose,49,Affirmative,True,False,True
+505,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,5953,Steven Matteo,Steven Matteo,50,Negative,False,True,False
+506,Int 1116-2018,pro_vendor,Approved by Council,2021-01-28 13:30:00,7264,Joseph C. Borelli,Joseph C. Borelli,51,Negative,False,True,False
+507,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7801,Christopher Marte,Christopher Marte,1,Affirmative,True,False,True
+508,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7893,Harvey D. Epstein,Harvey D. Epstein,2,Affirmative,True,False,True
+509,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7802,Erik D. Bottcher,Erik D. Bottcher,3,Affirmative,True,False,True
+510,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,True
+511,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7803,Julie Menin,Julie Menin,5,Affirmative,True,False,True
+512,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,5259,Gale A. Brewer,Gale A. Brewer,6,Affirmative,True,False,True
+513,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7804,Shaun Abreu,Shaun Abreu,7,Affirmative,True,False,True
+514,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,True
+515,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7866,Yusef Salaam,Yusef Salaam,9,Affirmative,True,False,True
+516,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7806,Carmen N. De La Rosa,Carmen N. De La Rosa,10,Affirmative,True,False,True
+517,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7799,Eric Dinowitz,Eric Dinowitz,11,Affirmative,True,False,True
+518,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7794,Kevin C. Riley,Kevin C. Riley,12,Affirmative,True,False,True
+519,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7865,Kristy Marmorato,Kristy Marmorato,13,Negative,False,True,False
+520,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7808,Pierina Ana Sanchez,Pierina Ana Sanchez,14,Affirmative,True,False,True
+521,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7798,Oswald J. Feliz,Oswald J. Feliz,15,Affirmative,True,False,True
+522,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7809,Althea V.  Stevens,Althea V.  Stevens,16,Affirmative,True,False,True
+523,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,True
+524,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7810,Amanda C. Farías,Amanda C. Farías,18,Affirmative,True,False,True
+525,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7811,Vickie Paladino,Vickie Paladino,19,Negative,False,True,False
+526,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7812,Sandra Ung,Sandra Ung,20,Affirmative,True,False,True
+527,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Affirmative,True,False,True
+528,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7813,Tiffany L. Cabán,Tiffany L. Cabán,22,Affirmative,True,False,True
+529,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7814,Linda Lee,Linda Lee,23,Affirmative,True,False,True
+530,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,5273,James F. Gennaro,James F. Gennaro,24,Affirmative,True,False,True
+531,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7815,Shekar Krishnan,Shekar Krishnan,25,Affirmative,True,False,True
+532,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7816,Julie Won,Julie Won,26,Affirmative,True,False,True
+533,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7817,Nantasha M. Williams,Nantasha M. Williams,27,Affirmative,True,False,True
+534,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,True
+535,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7818,Lynn C. Schulman,Lynn C. Schulman,29,Affirmative,True,False,True
+536,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Negative,False,True,False
+537,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7796,Selvena N. Brooks-Powers,Selvena N. Brooks-Powers,31,Affirmative,True,False,True
+538,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7819,Joann Ariola ,Joann Ariola ,32,Negative,False,True,False
+539,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7820,Lincoln Restler,Lincoln Restler,33,Affirmative,True,False,True
+540,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7821,Jennifer Gutiérrez,Jennifer Gutiérrez,34,Affirmative,True,False,True
+541,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7822,Crystal Hudson,Crystal Hudson,35,Affirmative,True,False,True
+542,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7823,Chi A. Ossé,Chi A. Ossé,36,Affirmative,True,False,True
+543,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7824,Sandy Nurse,Sandy Nurse,37,Affirmative,True,False,True
+544,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7825,Alexa Avilés,Alexa Avilés,38,Affirmative,True,False,True
+545,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7826,Shahana K. Hanif,Shahana K. Hanif,39,Affirmative,True,False,True
+546,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7827,Rita C. Joseph,Rita C. Joseph,40,Affirmative,True,False,True
+547,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,6272,Darlene Mealy,Darlene Mealy,41,Negative,False,True,False
+548,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7864,Chris Banks,Chris Banks,42,Affirmative,True,False,True
+549,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7867,Susan Zhuang,Susan Zhuang,43,Absent,False,False,False
+550,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,5289,Simcha Felder,Simcha Felder,44,Negative,False,True,False
+551,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7785,Farah N. Louis,Farah N. Louis,45,Affirmative,True,False,True
+552,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7829,Mercedes Narcisse,Mercedes Narcisse,46,Affirmative,True,False,True
+553,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,47,Affirmative,True,False,True
+554,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7831,Inna Vernikov,Inna Vernikov,48,Negative,False,True,False
+555,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7832,Kamillah Hanks,Kamillah Hanks,49,Absent,False,False,False
+556,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7833,David M. Carr,David M. Carr,50,Absent,False,False,False
+557,Int 1251-2025,pro_vendor,Approved by Council,2025-12-18 13:30:00,7887,Frank Morano,Frank Morano,51,Negative,False,True,False
+558,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7562,Margaret S. Chin,Margaret S. Chin,1,Affirmative,True,False,True
+559,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,6274,Rosie Mendez,Rosie Mendez,2,Absent,False,False,False
+560,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7631,Corey D. Johnson,Corey D. Johnson,3,Affirmative,True,False,True
+561,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,6267,Daniel R. Garodnick,Daniel R. Garodnick,4,Affirmative,True,False,True
+562,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7632,Ben Kallos,Ben Kallos,5,Affirmative,True,False,True
+563,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7639,Helen K. Rosenthal,Helen K. Rosenthal,6,Affirmative,True,False,True
+564,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7634,Mark Levine,Mark Levine,7,Affirmative,True,False,True
+565,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,6269,Melissa Mark-Viverito,Melissa Mark-Viverito,8,Affirmative,True,False,True
+566,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,430,Bill Perkins,Bill Perkins,9,Affirmative,True,False,True
+567,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7541,Ydanis A. Rodriguez,Ydanis A. Rodriguez,10,Affirmative,True,False,True
+568,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7624,Andrew Cohen,Andrew Cohen,11,Affirmative,True,False,True
+569,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7613,Andy L. King,Andy L. King,12,Affirmative,True,False,True
+570,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,6271,James Vacca,James Vacca,13,Affirmative,True,False,True
+571,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7561,Fernando Cabrera ,Fernando Cabrera ,14,Affirmative,True,False,True
+572,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7640,Ritchie J. Torres,Ritchie J. Torres,15,Affirmative,True,False,True
+573,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7622,Vanessa L. Gibson,Vanessa L. Gibson,16,Affirmative,True,False,True
+574,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,True
+575,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,5416,Annabel Palma,Annabel Palma,18,Affirmative,True,False,True
+576,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7642,Paul A. Vallone,Paul A. Vallone,19,Affirmative,True,False,True
+577,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7565,Peter A. Koo,Peter A. Koo,20,Affirmative,True,False,True
+578,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7509,Julissa Ferreras-Copeland,Julissa Ferreras-Copeland,21,Affirmative,True,False,True
+579,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7627,Costa G. Constantinides,Costa G. Constantinides,22,Affirmative,True,False,True
+580,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7691,Barry S. Grodenchik,Barry S. Grodenchik,23,Affirmative,True,False,True
+581,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7633,Rory I. Lancman,Rory I. Lancman,24,Affirmative,True,False,True
+582,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7563,Daniel Dromm ,Daniel Dromm ,25,Affirmative,True,False,True
+583,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7569,James G. Van Bramer,James G. Van Bramer,26,Affirmative,True,False,True
+584,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7637,I. Daneek Miller,I. Daneek Miller,27,Affirmative,True,False,True
+585,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7586,Ruben Wills,Ruben Wills,28,Affirmative,True,False,True
+586,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,386,Karen Koslowitz,Karen Koslowitz,29,Affirmative,True,False,True
+587,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7502,Elizabeth S. Crowley,Elizabeth S. Crowley,30,Affirmative,True,False,True
+588,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7617,Donovan J. Richards,Donovan J. Richards,31,Affirmative,True,False,True
+589,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7510,Eric A. Ulrich,Eric A. Ulrich,32,Affirmative,True,False,True
+590,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7567,Stephen T. Levin,Stephen T. Levin,33,Affirmative,True,False,True
+591,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7638,Antonio Reynoso,Antonio Reynoso,34,Affirmative,True,False,True
+592,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7628,Laurie A. Cumbo,Laurie A. Cumbo,35,Affirmative,True,False,True
+593,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7604,"Robert E. Cornegy, Jr.","Robert E. Cornegy, Jr.",36,Affirmative,True,False,True
+594,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7630,"Rafael L. Espinal, Jr.","Rafael L. Espinal, Jr.",37,Affirmative,True,False,True
+595,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7636,Carlos Menchaca,Carlos Menchaca,38,Affirmative,True,False,True
+596,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7566,Brad S. Lander,Brad S. Lander,39,Affirmative,True,False,True
+597,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7113,Mathieu Eugene,Mathieu Eugene,40,Affirmative,True,False,True
+598,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,6272,Darlene Mealy,Darlene Mealy,41,Affirmative,True,False,True
+599,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7623,Inez D. Barron,Inez D. Barron,42,Affirmative,True,False,True
+600,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,5390,Vincent J. Gentile,Vincent J. Gentile,43,Affirmative,True,False,True
+601,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7577,David G. Greenfield,David G. Greenfield,44,Affirmative,True,False,True
+602,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7571,Jumaane D. Williams,Jumaane D. Williams,45,Affirmative,True,False,True
+603,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7635,Alan N. Maisel,Alan N. Maisel,46,Affirmative,True,False,True
+604,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7641,Mark Treyger,Mark Treyger,47,Affirmative,True,False,True
+605,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7629,Chaim M. Deutsch,Chaim M. Deutsch,48,Affirmative,True,False,True
+606,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7568,Deborah L. Rose,Deborah L. Rose,49,Affirmative,True,False,True
+607,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,5953,Steven Matteo,Steven Matteo,50,Affirmative,True,False,True
+608,Int 1456-2017,pro_vendor,Approved by Council,2017-05-24 13:30:00,7264,Joseph C. Borelli,Joseph C. Borelli,51,Affirmative,True,False,True
+609,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7562,Margaret S. Chin,Margaret S. Chin,1,Affirmative,True,False,False
+610,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7740,Carlina Rivera ,Carlina Rivera ,2,Affirmative,True,False,False
+611,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7631,Corey D. Johnson,Corey D. Johnson,3,Affirmative,True,False,False
+612,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7741,Keith Powers ,Keith Powers ,4,Affirmative,True,False,False
+613,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7632,Ben Kallos,Ben Kallos,5,Affirmative,True,False,False
+614,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7639,Helen K. Rosenthal,Helen K. Rosenthal,6,Affirmative,True,False,False
+615,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7634,Mark Levine,Mark Levine,7,Affirmative,True,False,False
+616,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7742,Diana I. Ayala,Diana I. Ayala,8,Affirmative,True,False,False
+617,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,430,Bill Perkins,Bill Perkins,9,Affirmative,True,False,False
+618,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7541,Ydanis A. Rodriguez,Ydanis A. Rodriguez,10,Affirmative,True,False,False
+619,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7624,Andrew Cohen,Andrew Cohen,11,Affirmative,True,False,False
+620,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7613,Andy L. King,Andy L. King,12,Affirmative,True,False,False
+621,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7743,Mark Gjonaj ,Mark Gjonaj ,13,Affirmative,True,False,False
+622,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7561,Fernando Cabrera ,Fernando Cabrera ,14,Affirmative,True,False,False
+623,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7640,Ritchie J. Torres,Ritchie J. Torres,15,Affirmative,True,False,False
+624,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7622,Vanessa L. Gibson,Vanessa L. Gibson,16,Affirmative,True,False,False
+625,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7714,"Rafael Salamanca, Jr.","Rafael Salamanca, Jr.",17,Affirmative,True,False,False
+626,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7744,"Ruben Diaz, Sr.","Ruben Diaz, Sr.",18,Affirmative,True,False,False
+627,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7642,Paul A. Vallone,Paul A. Vallone,19,Affirmative,True,False,False
+628,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7565,Peter A. Koo,Peter A. Koo,20,Affirmative,True,False,False
+629,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7745,Francisco P. Moya,Francisco P. Moya,21,Affirmative,True,False,False
+630,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7627,Costa G. Constantinides,Costa G. Constantinides,22,Affirmative,True,False,False
+631,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7691,Barry S. Grodenchik,Barry S. Grodenchik,23,Affirmative,True,False,False
+632,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7633,Rory I. Lancman,Rory I. Lancman,24,Affirmative,True,False,False
+633,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7563,Daniel Dromm ,Daniel Dromm ,25,Affirmative,True,False,False
+634,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7569,James G. Van Bramer,James G. Van Bramer,26,Affirmative,True,False,False
+635,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7637,I. Daneek Miller,I. Daneek Miller,27,Affirmative,True,False,False
+636,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7739,Adrienne E. Adams,Adrienne E. Adams,28,Affirmative,True,False,False
+637,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,386,Karen Koslowitz,Karen Koslowitz,29,Affirmative,True,False,False
+638,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7746,Robert F. Holden,Robert F. Holden,30,Affirmative,True,False,False
+639,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7617,Donovan J. Richards,Donovan J. Richards,31,Affirmative,True,False,False
+640,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7510,Eric A. Ulrich,Eric A. Ulrich,32,Absent,False,False,False
+641,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7567,Stephen T. Levin,Stephen T. Levin,33,Affirmative,True,False,False
+642,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7638,Antonio Reynoso,Antonio Reynoso,34,Affirmative,True,False,False
+643,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7628,Laurie A. Cumbo,Laurie A. Cumbo,35,Affirmative,True,False,False
+644,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7604,"Robert E. Cornegy, Jr.","Robert E. Cornegy, Jr.",36,Affirmative,True,False,False
+645,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7630,"Rafael L. Espinal, Jr.","Rafael L. Espinal, Jr.",37,Affirmative,True,False,False
+646,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7636,Carlos Menchaca,Carlos Menchaca,38,Affirmative,True,False,False
+647,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7566,Brad S. Lander,Brad S. Lander,39,Affirmative,True,False,False
+648,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7113,Mathieu Eugene,Mathieu Eugene,40,Affirmative,True,False,False
+649,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7747,Alicka Ampry-Samuel ,Alicka Ampry-Samuel ,41,Affirmative,True,False,False
+650,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7623,Inez D. Barron,Inez D. Barron,42,Affirmative,True,False,False
+651,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7748,Justin L. Brannan,Justin L. Brannan,43,Affirmative,True,False,False
+652,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7749,Kalman Yeger ,Kalman Yeger ,44,Affirmative,True,False,False
+653,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7785,Farah N. Louis,Farah N. Louis,45,Affirmative,True,False,False
+654,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7635,Alan N. Maisel,Alan N. Maisel,46,Medical,False,False,False
+655,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7641,Mark Treyger,Mark Treyger,47,Affirmative,True,False,False
+656,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7629,Chaim M. Deutsch,Chaim M. Deutsch,48,Affirmative,True,False,False
+657,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7568,Deborah L. Rose,Deborah L. Rose,49,Affirmative,True,False,False
+658,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,5953,Steven Matteo,Steven Matteo,50,Affirmative,True,False,False
+659,Int 1657-2019,anti_vendor,Approved by Council,2019-10-17 13:30:00,7264,Joseph C. Borelli,Joseph C. Borelli,51,Affirmative,True,False,False
