@@ -9,4 +9,5 @@ splot
 esda
 contextily
 python-dotenv
+glum
 

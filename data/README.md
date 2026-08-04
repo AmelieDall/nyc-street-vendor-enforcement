@@ -71,3 +71,7 @@ Get from https://www.nyc.gov/content/planning/pages/resources/datasets/mappluto-
 ## NYC Census Tracts
 
 get from https://www.nyc.gov/content/planning/pages/resources/datasets/census-tracts
+
+## BIDS
+
+get from https://data.cityofnewyork.us/Business/Business-Improvement-Districts/7jdm-inj8/about_data as shapefile rename to BIDS in folder
