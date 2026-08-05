@@ -13,7 +13,7 @@ One or two sentences: what this project does and why it matters
 ![Enforcement violations by borough](outputs/violations_by_borough.png)
 
 ## Data Sources
-- NYC OATH violations (~108k records)
+- NYC OATH violations (~108k records) DIFFERENCE BETWEEN CIVIL AND CRIMINAL SUMMONS
 - NYC 311 complaints (Socrata)
 - PLUTO
 - Legistar (legislative vote records, 1998–2025)

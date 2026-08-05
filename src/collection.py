@@ -50,10 +50,10 @@ def normalize_agency_name(name):
     if any(x in name for x in ['PARKS DEPARTMENT', 'PARKS AND RECR', 'PARKS - CAPITAL']):
         return 'Parks'
 
-    # Health / Mental Health
+    # Health and Mental Hygiene
     if any(x in name for x in ['DOH MENTAL HEALTH', 'DOH/MENTAL HEALTH', 'DOHMH',
                                 'DEPT OF HEALTH', 'COOLING TOWERS']):
-        return 'Health/Mental Health'
+        return 'Health and Mental Hygiene'
 
     # Sanitation — specific before general
     if 'SANITATION VENDOR ENFORCEMENT' in name:
