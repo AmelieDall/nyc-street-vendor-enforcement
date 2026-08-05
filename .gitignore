@@ -227,3 +227,4 @@ data/processed/respondents_gdf.geojson
 
 # macOS
 .DS_Store
+.Rhistory
