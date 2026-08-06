@@ -4,6 +4,7 @@ Street vending enforcement in New York City produces spatially unequal outcomes,
 
 ## Repository Structure
 
+```
 .
 ├── data/             
 │   ├── README.md     # Refer to data README for more information
