@@ -1,52 +1,59 @@
-# nyc-street-vendor-enforcement-
-
 # NYC Street Vendor Enforcement Analysis
 
-One or two sentences: what this project does and why it matters
-(e.g. spatial analysis of OATH violation enforcement patterns across NYC boroughs/council districts)
-
-## Overview
-- Brief context: what question you're answering
-- Who this is for / research context (e.g. RA work with Dr. Farah)
-- Key finding or headline visual (this is a great place for your borough enforcement figure)
-
-![Enforcement violations by borough](outputs/violations_by_borough.png)
-
-## Data Sources
-- NYC OATH violations (~108k records) DIFFERENCE BETWEEN CIVIL AND CRIMINAL SUMMONS
-- NYC 311 complaints (Socrata)
-- PLUTO
-- Legistar (legislative vote records, 1998–2025)
-- ACS (Census API, NYC counties)
-- Council district shapefiles (2013/2023 redistricting)
+Street vending enforcement in New York City produces spatially unequal outcomes, with some neighborhoods bearing higher citation burdens than others. We examine what factors predict this spatial inequality. Using 27 years of OATH violation records (1998–2025) linked to geocoded home addresses, council district legislative scores, ACS demographics, and Business Improvement District boundaries, we estimate negative binomial regression models of district-level violation intensity. This research is done through the University of Illinois Department of Urban and Regional Planning.
 
 ## Repository Structure
 
-## Methodology
-- Geocoding approach (Pelias/NYC GeoSearch API, spatial accuracy tiers)
-- Projection standard (EPSG:2263)
-- Spatial joins (census tracts, BID overlays, council districts)
-- Modeling approach (negative binomial regression, elastic net, Moran's I/LISA, multilevel models)
-- Key predictors identified (e.g. pct_in_bid_z, 311_requests_z)
+.
+├── data/             
+│   ├── README.md     # Refer to data README for more information
+│   ├── processed/     
+│   ├── raw/          
+│   └── sample/ 
+├── notebooks/
+│   ├── 01_data_collection.ipynb         
+│   ├── 02_geocoding.ipynb         
+│   ├── 03_enforcement_patterns.ipynb         
+│   ├── 04_post_citation_treatment.ipynb          
+│   ├── 05_acs_data_analysis.ipynb          
+│   ├── 06_311_service_requests.ipynb       
+│   ├── 07_political_representation.ipynb        
+│   └── 08_NB_regression_model.ipynb                
+├── src/                # Core source code used in notebooks
+│   ├── acs_data.py
+│   ├── addresses.py
+│   ├── bids.py
+│   ├── bill_setup.py
+│   ├── collection.py
+│   ├── enforcement_patterns.py
+│   ├── fetch_analysis_311.py
+│   ├── geocoding.py
+│   ├── manual_district_roster.py 
+│   ├── nb_model.py         
+│   └── post_citation.py   
+├── .env.example          
+├── .gitignore          
+├── LICENSE             
+├── README.md           
+└── requirements.txt 
+```
 
-## Key Results
-- 2-4 bullet points or a short paragraph summarizing main findings
-- Link to relevant notebook(s) for full detail
+## Data Sources
+[Data Documentation](./data/README.md)
 
 ## Setup / Installation
 ```bash
 git clone https://github.com/AmelieDall/nyc-street-vendor-enforcement.git
 cd nyc-street-vendor-enforcement
 pip install -r requirements.txt
-cp .env.example .env  # add your API keys
+cp .env.example .env
 ```
 
 ## Usage
-Brief instructions on running notebooks in order, or pointing to specific ones for specific analyses
+The notebooks are meant to be run in order from #1 to #8. Notebook #1 is required to pull the foundational dataframe, and #2 is required to run any sort of spatial analysis.
 
 ## Acknowledgments
-- Dr. Irene Farah Rivadeneyra / research context
-- Any data providers worth crediting
+Thank you to Dr. Irene Farah for the opportunity to assist in this project and all the support throughout it!
 
 ## License
-Reference to LICENSE file
+[License](./LICENSE)
