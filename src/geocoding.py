@@ -101,8 +101,11 @@ async def geocode_one(session, semaphore, address):
                         return parse_geosearch_response(data, address)
                     elif resp.status == 429:
                         await asyncio.sleep(2 ** attempt)
+                    elif resp.status >= 500:
+                        await asyncio.sleep(1)  # transient server error, worth retrying
                     else:
-                        await asyncio.sleep(1)
+                        # 400s and other 4xx are unlikely to succeed on retry — fail fast
+                        return parse_geosearch_response({}, address)
             except Exception:
                 await asyncio.sleep(2 ** attempt)
 
@@ -110,15 +113,24 @@ async def geocode_one(session, semaphore, address):
 
 # ── Checkpoint helpers ─────────────────────────────────────────────────────────
 
+def save_checkpoint(records, path):
+    pd.DataFrame(records).to_csv(path, index=False)
+
 def load_checkpoint(path):
     if not os.path.exists(path):
         return set(), []
     df = pd.read_csv(path)
-    done = set(df["input_address"].dropna().tolist())
+    # Only treat rows with an actual successful match as "done".
+    # Rows that came back empty (no lat) should be retried, not
+    # permanently cached as failures.
+    if "lat" in df.columns:
+        succeeded = df[df["lat"].notna()]
+    else:
+        succeeded = df.iloc[0:0]
+    done = set(succeeded["input_address"].dropna().tolist())
     return done, df.to_dict("records")
 
-def save_checkpoint(records, path):
-    pd.DataFrame(records).to_csv(path, index=False)
+# ── Main pipeline ──────────────────────────────────────────────────────────────
 
 # ── Main pipeline ──────────────────────────────────────────────────────────────
 
@@ -143,6 +155,9 @@ async def geocode_addresses(addresses, checkpoint_path):
                 save_checkpoint(results, checkpoint_path)
                 print(f"  [{datetime.now().strftime('%H:%M:%S')}] Checkpointed {i + 1}/{len(remaining)}")
 
-    save_checkpoint(results, checkpoint_path)
-    print(f"Done — {len(results)} total records saved to {checkpoint_path}")
-    return pd.DataFrame(results)
+    df_out = pd.DataFrame(results)
+    # Keep the most recent attempt per address (retries appended after old failed rows)
+    df_out = df_out.drop_duplicates(subset="input_address", keep="last")
+    save_checkpoint(df_out.to_dict("records"), checkpoint_path)
+    print(f"Done — {len(df_out)} total records saved to {checkpoint_path}")
+    return df_out

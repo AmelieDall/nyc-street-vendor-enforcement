@@ -126,11 +126,12 @@ CORNER_PREFIXES = re.compile(
     r'S\.?\s*/?E\.?|S\.?\s*/?W\.?|'
     r'NE|NW|SE|SW)?'
     r'\s*'
-    r'(C\.?\s*[/P]?\s*O\.?|COR(NER)?\.?|CO)\s*'
-    r'(OF\b|O\b)?'
+    r'(C\.?\s*/\s*O\.?|COR(NER)?\.?|CO)\s*'
+    r'OF\b'
     r'\s*',
     re.IGNORECASE
 )
+
 
 CORNER_WORD = re.compile(
     r'^(N\.?\s*E\.?|N\.?\s*W\.?|S\.?\s*E\.?|S\.?\s*W\.?|'
@@ -177,7 +178,7 @@ NO_HOUSENUMBER = re.compile(r'^\d+(-\d+)?\s')
 
 # Other
 APPROX_DESCRIPTOR = re.compile(
-    r'\s+APPROX\s+[\w\s]+?(OF\s+|E\s+OF\s+|W\s+OF\s+|N\s+OF\s+|S\s+OF\s+)?',
+    r'\s+APPROX\s+[\w\s]+?(?:OF\s+|E\s+OF\s+|W\s+OF\s+|N\s+OF\s+|S\s+OF\s+)',
     re.IGNORECASE
 )
 
